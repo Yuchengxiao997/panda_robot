@@ -1,0 +1,102 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-27_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-27_20-14-35-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+now we look -8.752128371198134
+bad
+now we look -15.767510564443599
+now we look -9.489258933715755
+now we look -32.070181694965136
+now we look -20.198106129089577
+now we look -39.409660151727536
+now we look -25.054262376609636
+now we look -29.691545001113965
+bad
+now we look -32.89264295890323
+bad
+now we look -26.73922247466957
+bad
+now we look -32.734069558241345
+now we look -6.14712865772284
+bad
+now we look -9.000391427936675
+bad
+now we look -11.545814276908374
+now we look -9.7100655986537
+now we look -3.0622962442139245
+bad
+now we look -18.621379691098912
+bad
+now we look -40.667080724838875
+now we look -26.700976159031107
+now we look -32.45453069558723
+now we look -23.09933373366243
+now we look -28.194467783394995
+now we look -6.935225559398262
+now we look -23.328954118311596
+now we look -27.477710959201445
+now we look -22.554417725753233
+now we look -13.19286071530492
+now we look -29.82116863986247
+now we look -16.566133161414285
+now we look -14.187479757785248
+now we look -4.420668332875321
+now we look -24.609928867291835
+now we look -25.477092837973668
+now we look -0.9622294184953084
+right
+epoch: 0 	ep: 26 	ep_rew: -3.2716965188353555 	time: 2.293 	done: 1
+now we look -1.4274829385724859
+bad
+now we look -27.616672339777093
+now we look -40.665709583312
+now we look -17.84313848062017
+now we look -25.036710609270465
+now we look -27.034466194879858
+now we look -5.872358773486718
+now we look -45.523872995179914
+now we look -4.384128927742415
+now we look -42.67852713254886
+now we look -1.217516241734995
+right
+epoch: 0 	ep: 34 	ep_rew: -3.1039679193372933 	time: 2.364 	done: 1
+now we look -14.470864198260514
+now we look -18.961446468932763
+now we look -37.84414288878232
+now we look -10.686454489254169
+bad
+now we look -13.407233617197093
+bad
+now we look -8.07969221701108
+now we look -27.136206802491763
+now we look -29.164063814772767
+now we look -25.036710609270465
+now we look -13.86700533905153
+now we look -4.978623375251234
+now we look -29.08069019497921
+now we look -25.719290350022327
+now we look -11.680953749190198
+now we look -19.93867947402721
+now we look -11.425503699325857
+now we look -0.7985890590595623
+right
+epoch: 0 	ep: 49 	ep_rew: -2.428064056190159 	time: 2.309 	done: 1
+now we look -1.6254580106683347
+right
+now we look -1.6254580106683347
+right
+now we look -1.6254580106683347
+right
+now we look -1.6254580106683347
+right
+now we look -1.6254580106683347
+right

@@ -1,0 +1,194 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-12_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-12_20-28-50-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+bad
+right
+right
+bad
+bad
+error
+error
+error
+bad
+bad
+right
+right
+bad
+right
+bad
+right
+right
+error
+error
+bad
+right
+right
+bad
+right
+very well
+epoch: 0 	ep: 48 	ep_rew: 100 	time: 0.528 	done: 1
+error
+error
+error
+error
+error
+error
+error
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |           -6.31 |
+|         EpRealRet |           -6.31 |
+|         TestEpRet |               0 |
+|         AverageQ1 |              -2 |
+|             StdQ1 |            3.94 |
+|             MaxQ1 |            4.47 |
+|             MinQ1 |           -46.5 |
+|                Q2 |              -2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |             109 |
+---------------------------------------
+right
+bad
+bad
+error
+right
+bad
+error
+right
+bad
+error
+error
+right
+error
+right
+error
+right
+right
+right
+error
+bad
+error
+error
+bad
+error
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |           -6.75 |
+|         EpRealRet |           -6.75 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -2.87 |
+|             StdQ1 |            5.18 |
+|             MaxQ1 |            5.54 |
+|             MinQ1 |           -53.1 |
+|                Q2 |           -2.87 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |             223 |
+---------------------------------------
+right
+right
+right
+right
+bad
+error
+error
+right
+bad
+error
+error
+right
+right
+right
+right
+right
+right
+right
+right
+error
+right
+right
+error
+error
+right
+error
+error
+error
+error
+right
+error
+error
+error
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |           -9.08 |
+|         EpRealRet |           -9.08 |
+|         TestEpRet |           -1.91 |
+|         AverageQ1 |           -4.61 |
+|             StdQ1 |            5.67 |
+|             MaxQ1 |             6.4 |
+|             MinQ1 |           -54.3 |
+|                Q2 |           -4.61 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             342 |
+---------------------------------------
+right
+right
+right
+error
+bad
+right
+very well
+epoch: 3 	ep: 15 	ep_rew: 91.60762310103269 	time: 0.521 	done: 1
+very well
+epoch: 3 	ep: 16 	ep_rew: 100 	time: 0.513 	done: 1
+right
+error
+right
+right
+error
+error
+right
+error
+right
+right
+error
+---------------------------------------
+|             Epoch |               3 |
+|             EpRet |           -1.31 |
+|         EpRealRet |           -1.31 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -6.79 |
+|             StdQ1 |            6.44 |
+|             MaxQ1 |            2.44 |
+|             MinQ1 |           -55.6 |
+|                Q2 |           -6.79 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           8e+05 |
+|         TotalTime |             451 |
+---------------------------------------
+bad
+error
+error
+right
+bad
+bad
+error
+right
+error
+error
+right
+bad
+right
+error

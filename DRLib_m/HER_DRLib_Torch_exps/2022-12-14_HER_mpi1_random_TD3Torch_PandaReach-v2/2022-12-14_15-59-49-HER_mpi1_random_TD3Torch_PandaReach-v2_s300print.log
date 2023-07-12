@@ -1,0 +1,125 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-14_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-14_15-59-49-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+bad
+right
+error
+right
+error
+right
+right
+right
+bad
+error
+right
+right
+bad
+bad
+error
+right
+error
+error
+right
+right
+right
+bad
+error
+right
+error
+bad
+error
+error
+bad
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |           -1.04 |
+|         EpRealRet |           -1.04 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.861 |
+|             StdQ1 |            2.35 |
+|             MaxQ1 |            1.76 |
+|             MinQ1 |             -20 |
+|                Q2 |          -0.862 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |             114 |
+---------------------------------------
+error
+error
+error
+very well
+epoch: 1 	ep: 9 	ep_rew: 100 	time: 0.593 	done: 1
+error
+bad
+error
+right
+right
+right
+right
+right
+right
+right
+bad
+error
+error
+right
+bad
+bad
+error
+bad
+bad
+bad
+bad
+error
+error
+right
+error
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |           0.358 |
+|         EpRealRet |           0.358 |
+|         TestEpRet |           0.985 |
+|         AverageQ1 |          -0.715 |
+|             StdQ1 |            1.98 |
+|             MaxQ1 |             1.7 |
+|             MinQ1 |           -19.9 |
+|                Q2 |          -0.715 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |             227 |
+---------------------------------------
+error
+bad
+right
+bad
+error
+right
+error
+error
+right
+right
+error
+right
+error
+bad
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+error

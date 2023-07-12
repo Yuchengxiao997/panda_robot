@@ -1,0 +1,1482 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-24_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-24_15-26-10-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |           -12.4 |
+|         EpRealRet |           -12.4 |
+|         TestEpRet |             -12 |
+|         AverageQ1 |           -11.8 |
+|             StdQ1 |            3.81 |
+|             MaxQ1 |          0.0113 |
+|             MinQ1 |           -32.3 |
+|                Q2 |           -11.8 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |            36.4 |
+---------------------------------------
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+right
+bad
+bad
+right
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |           -11.3 |
+|         EpRealRet |           -11.3 |
+|         TestEpRet |            -7.8 |
+|         AverageQ1 |           -14.3 |
+|             StdQ1 |             4.1 |
+|             MaxQ1 |           -4.74 |
+|             MinQ1 |           -36.9 |
+|                Q2 |           -14.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |            72.8 |
+---------------------------------------
+bad
+bad
+bad
+bad
+right
+right
+right
+right
+right
+bad
+bad
+bad
+right
+bad
+bad
+bad
+bad
+bad
+right
+right
+bad
+right
+bad
+bad
+bad
+right
+right
+bad
+bad
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |           -7.53 |
+|         EpRealRet |           -7.53 |
+|         TestEpRet |           -4.46 |
+|         AverageQ1 |           -12.5 |
+|             StdQ1 |            3.86 |
+|             MaxQ1 |            -2.9 |
+|             MinQ1 |             -35 |
+|                Q2 |           -12.5 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             113 |
+---------------------------------------
+bad
+bad
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+bad
+bad
+right
+bad
+bad
+right
+bad
+right
+right
+bad
+bad
+bad
+right
+bad
+bad
+right
+right
+right
+right
+bad
+right
+right
+bad
+bad
+right
+bad
+right
+bad
+bad
+right
+bad
+bad
+bad
+bad
+bad
+right
+right
+right
+right
+bad
+bad
+bad
+right
+right
+bad
+right
+right
+right
+bad
+---------------------------------------
+|             Epoch |               3 |
+|             EpRet |           -4.02 |
+|         EpRealRet |           -4.02 |
+|         TestEpRet |           -4.04 |
+|         AverageQ1 |           -9.57 |
+|             StdQ1 |            4.65 |
+|             MaxQ1 |           0.931 |
+|             MinQ1 |           -34.3 |
+|                Q2 |           -9.56 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           8e+05 |
+|         TotalTime |             152 |
+---------------------------------------
+right
+bad
+bad
+bad
+bad
+right
+bad
+bad
+right
+right
+right
+bad
+bad
+bad
+right
+bad
+bad
+bad
+right
+right
+right
+right
+right
+right
+bad
+bad
+bad
+right
+right
+bad
+right
+right
+right
+right
+bad
+right
+bad
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+bad
+right
+bad
+bad
+right
+bad
+bad
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               4 |
+|             EpRet |           -1.54 |
+|         EpRealRet |           -1.54 |
+|         TestEpRet |            36.4 |
+|         AverageQ1 |           -7.36 |
+|             StdQ1 |            4.47 |
+|             MaxQ1 |           0.078 |
+|             MinQ1 |           -32.8 |
+|                Q2 |           -7.36 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           1e+06 |
+|         TotalTime |             192 |
+---------------------------------------
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+bad
+right
+right
+bad
+right
+bad
+bad
+bad
+bad
+right
+bad
+right
+right
+right
+right
+right
+bad
+bad
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+bad
+bad
+right
+right
+right
+right
+right
+right
+bad
+bad
+bad
+bad
+bad
+bad
+right
+right
+right
+bad
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               5 |
+|             EpRet |           -3.31 |
+|         EpRealRet |           -3.31 |
+|         TestEpRet |             118 |
+|         AverageQ1 |           -6.61 |
+|             StdQ1 |             4.1 |
+|             MaxQ1 |            2.44 |
+|             MinQ1 |           -36.7 |
+|                Q2 |           -6.61 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.2e+06 |
+|         TotalTime |             228 |
+---------------------------------------
+bad
+bad
+bad
+right
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+right
+right
+right
+right
+right
+right
+very well
+epoch: 6 	ep: 13 	ep_rew: 145.6013402116168 	time: 0.341 	done: 1
+right
+right
+right
+right
+right
+very well
+epoch: 6 	ep: 15 	ep_rew: 114.08292875429115 	time: 0.369 	done: 1
+bad
+right
+right
+bad
+bad
+bad
+bad
+bad
+right
+bad
+right
+bad
+bad
+bad
+right
+right
+right
+right
+bad
+bad
+bad
+right
+right
+bad
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+very well
+epoch: 6 	ep: 44 	ep_rew: 96.58582752260858 	time: 0.278 	done: 1
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               6 |
+|             EpRet |            5.01 |
+|         EpRealRet |            5.01 |
+|         TestEpRet |             108 |
+|         AverageQ1 |           -6.24 |
+|             StdQ1 |            4.23 |
+|             MaxQ1 |            2.29 |
+|             MinQ1 |           -44.6 |
+|                Q2 |           -6.24 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.4e+06 |
+|         TotalTime |             266 |
+---------------------------------------
+bad
+right
+right
+right
+bad
+right
+right
+right
+right
+bad
+bad
+right
+right
+bad
+right
+bad
+right
+bad
+bad
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+right
+bad
+right
+right
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+right
+right
+right
+right
+very well
+epoch: 7 	ep: 37 	ep_rew: 136.4587595210415 	time: 0.329 	done: 1
+bad
+bad
+bad
+bad
+bad
+bad
+right
+right
+right
+right
+bad
+bad
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               7 |
+|             EpRet |           -1.72 |
+|         EpRealRet |           -1.72 |
+|         TestEpRet |            37.6 |
+|         AverageQ1 |           -6.09 |
+|             StdQ1 |            4.35 |
+|             MaxQ1 |            1.94 |
+|             MinQ1 |           -46.4 |
+|                Q2 |           -6.09 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.6e+06 |
+|         TotalTime |             307 |
+---------------------------------------
+right
+right
+bad
+right
+right
+bad
+bad
+right
+right
+right
+right
+bad
+bad
+right
+bad
+bad
+bad
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+very well
+epoch: 8 	ep: 21 	ep_rew: 115.5747278211901 	time: 0.368 	done: 1
+bad
+right
+right
+right
+bad
+bad
+bad
+right
+right
+right
+bad
+bad
+right
+right
+right
+bad
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               8 |
+|             EpRet |            6.21 |
+|         EpRealRet |            6.21 |
+|         TestEpRet |            47.4 |
+|         AverageQ1 |           -6.07 |
+|             StdQ1 |            4.27 |
+|             MaxQ1 |            1.97 |
+|             MinQ1 |           -49.3 |
+|                Q2 |           -6.07 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.8e+06 |
+|         TotalTime |             347 |
+---------------------------------------
+right
+right
+bad
+bad
+right
+right
+bad
+bad
+right
+right
+right
+bad
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+bad
+bad
+right
+right
+right
+right
+right
+bad
+bad
+right
+bad
+bad
+right
+right
+right
+bad
+right
+right
+bad
+bad
+right
+right
+right
+right
+bad
+right
+bad
+bad
+bad
+right
+right
+bad
+bad
+bad
+bad
+right
+right
+bad
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+bad
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               9 |
+|             EpRet |            1.79 |
+|         EpRealRet |            1.79 |
+|         TestEpRet |            67.8 |
+|         AverageQ1 |           -5.56 |
+|             StdQ1 |            4.26 |
+|             MaxQ1 |            2.36 |
+|             MinQ1 |           -48.2 |
+|                Q2 |           -5.56 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.01e+06 |
+|         TotalTime |             386 |
+---------------------------------------
+right
+bad
+bad
+bad
+right
+right
+bad
+bad
+bad
+right
+right
+bad
+right
+right
+right
+bad
+right
+right
+bad
+bad
+right
+bad
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+right
+right
+bad
+bad
+right
+right
+right
+right
+bad
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+bad
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |              10 |
+|             EpRet |            7.64 |
+|         EpRealRet |            7.64 |
+|         TestEpRet |              88 |
+|         AverageQ1 |           -5.25 |
+|             StdQ1 |            4.25 |
+|             MaxQ1 |            2.69 |
+|             MinQ1 |           -46.5 |
+|                Q2 |           -5.25 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.21e+06 |
+|         TotalTime |             425 |
+---------------------------------------
+right
+right
+right
+very well
+epoch: 11 	ep: 0 	ep_rew: 127.34501964056497 	time: 0.313 	done: 1
+right
+right
+bad
+bad
+right
+right
+right
+bad
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+bad
+bad
+bad
+right
+bad
+right
+right
+right
+bad
+bad
+bad
+bad
+bad
+right
+right
+right
+bad

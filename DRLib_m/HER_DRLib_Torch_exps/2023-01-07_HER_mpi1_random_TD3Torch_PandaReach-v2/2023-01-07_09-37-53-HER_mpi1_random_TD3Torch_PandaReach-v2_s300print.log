@@ -1,0 +1,208 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-01-07_HER_mpi1_random_TD3Torch_PandaReach-v2/2023-01-07_09-37-53-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+error
+bad
+right 8.799903084957407
+epoch: 0 	ep: 4 	ep_rew: 8.799903084957407 	time: 0.46 	done: 1
+bad
+right 6.57400184379243
+epoch: 0 	ep: 8 	ep_rew: 6.57400184379243 	time: 0.48 	done: 1
+right 7.7083675979821695
+epoch: 0 	ep: 11 	ep_rew: 7.7083675979821695 	time: 0.452 	done: 1
+error
+right 7.473557799606089
+epoch: 0 	ep: 17 	ep_rew: 7.473557799606089 	time: 0.476 	done: 1
+right 7.1076643544431715
+epoch: 0 	ep: 18 	ep_rew: 7.1076643544431715 	time: 0.496 	done: 1
+error
+right 7.410228228996459
+epoch: 0 	ep: 19 	ep_rew: 7.410228228996459 	time: 0.489 	done: 1
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+bad
+bad
+error
+error
+right 6.582974945615744
+right 7.042614154964548
+right 7.329422616259129
+right 7.773845405067762
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |           -7.45 |
+|         EpRealRet |           -7.45 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -26.1 |
+|             StdQ1 |            17.8 |
+|             MaxQ1 |            10.5 |
+|             MinQ1 |           -56.4 |
+|                Q2 |           -26.1 |
+|       TestSuccess |             0.4 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |            46.5 |
+---------------------------------------
+right 7.274423073216424
+epoch: 1 	ep: 0 	ep_rew: 7.274423073216424 	time: 0.473 	done: 1
+right 8.29602581044282
+epoch: 1 	ep: 1 	ep_rew: 8.29602581044282 	time: 0.489 	done: 1
+error
+error
+right 8.221370005995276
+epoch: 1 	ep: 9 	ep_rew: 8.221370005995276 	time: 0.524 	done: 1
+error
+error
+error
+right 8.888222853841505
+epoch: 1 	ep: 15 	ep_rew: 8.888222853841505 	time: 0.608 	done: 1
+error
+right 7.341741524557452
+epoch: 1 	ep: 26 	ep_rew: 7.341741524557452 	time: 0.487 	done: 1
+right 6.991869826894169
+epoch: 1 	ep: 28 	ep_rew: 6.991869826894169 	time: 0.55 	done: 1
+error
+bad
+error
+right 8.01682233916215
+epoch: 1 	ep: 38 	ep_rew: 8.01682233916215 	time: 0.461 	done: 1
+right 8.868482670233337
+epoch: 1 	ep: 39 	ep_rew: 8.868482670233337 	time: 0.483 	done: 1
+error
+right 8.591057089209146
+epoch: 1 	ep: 42 	ep_rew: 8.591057089209146 	time: 0.487 	done: 1
+bad
+right 6.579653918865894
+error
+bad
+error
+error
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |           -6.89 |
+|         EpRealRet |           -6.89 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -38 |
+|             StdQ1 |              18 |
+|             MaxQ1 |            6.96 |
+|             MinQ1 |           -67.5 |
+|                Q2 |             -38 |
+|       TestSuccess |             0.1 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |            94.7 |
+---------------------------------------
+error
+right 8.072723166587227
+epoch: 2 	ep: 2 	ep_rew: 8.072723166587227 	time: 0.53 	done: 1
+error
+right 7.417401889357166
+epoch: 2 	ep: 7 	ep_rew: 7.417401889357166 	time: 0.545 	done: 1
+bad
+right 8.407741069380657
+epoch: 2 	ep: 9 	ep_rew: 8.407741069380657 	time: 0.492 	done: 1
+bad
+bad
+bad
+error
+error
+right 7.382635479067397
+epoch: 2 	ep: 20 	ep_rew: 7.382635479067397 	time: 0.479 	done: 1
+error
+right 8.017066491534498
+epoch: 2 	ep: 21 	ep_rew: 8.017066491534498 	time: 0.496 	done: 1
+error
+error
+error
+error
+error
+bad
+bad
+error
+right 6.755927420020809
+epoch: 2 	ep: 36 	ep_rew: 6.755927420020809 	time: 0.518 	done: 1
+error
+error
+right 8.058945965795408
+epoch: 2 	ep: 43 	ep_rew: 8.058945965795408 	time: 0.577 	done: 1
+bad
+error
+right 7.072362387269896
+right 7.473507632386754
+error
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |           -7.49 |
+|         EpRealRet |           -7.49 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -37.1 |
+|             StdQ1 |              18 |
+|             MaxQ1 |            15.6 |
+|             MinQ1 |           -73.1 |
+|                Q2 |           -37.1 |
+|       TestSuccess |             0.2 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             145 |
+---------------------------------------
+right 9.82372587211965
+epoch: 3 	ep: 0 	ep_rew: 9.82372587211965 	time: 0.51 	done: 1
+bad
+error
+error
+bad
+right 7.1710140682818535
+epoch: 3 	ep: 9 	ep_rew: 7.1710140682818535 	time: 0.511 	done: 1
+right 7.965264679859743
+epoch: 3 	ep: 14 	ep_rew: 7.965264679859743 	time: 0.514 	done: 1
+right 7.895641739071397
+epoch: 3 	ep: 15 	ep_rew: 7.895641739071397 	time: 0.534 	done: 1
+right 8.618478574575402
+epoch: 3 	ep: 16 	ep_rew: 8.618478574575402 	time: 0.475 	done: 1
+right 7.743594313014118
+epoch: 3 	ep: 17 	ep_rew: 7.743594313014118 	time: 0.581 	done: 1
+error
+bad
+right 8.875381851756698
+epoch: 3 	ep: 27 	ep_rew: 8.875381851756698 	time: 0.492 	done: 1
+right 8.61223715637423
+epoch: 3 	ep: 41 	ep_rew: 8.61223715637423 	time: 0.522 	done: 1
+error
+right 7.8130934803450005
+epoch: 3 	ep: 47 	ep_rew: 7.8130934803450005 	time: 0.632 	done: 1
+error
+error
+right 6.7158544232201125
+error
+right 8.25289306108017
+right 8.097268381869757
+bad
+---------------------------------------
+|             Epoch |               3 |
+|             EpRet |           -4.86 |
+|         EpRealRet |           -4.86 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -37.3 |
+|             StdQ1 |            17.7 |
+|             MaxQ1 |            15.9 |
+|             MinQ1 |           -64.3 |
+|                Q2 |           -37.3 |
+|       TestSuccess |             0.3 |
+| TotalEnvInteracts |           8e+05 |
+|         TotalTime |             194 |
+---------------------------------------

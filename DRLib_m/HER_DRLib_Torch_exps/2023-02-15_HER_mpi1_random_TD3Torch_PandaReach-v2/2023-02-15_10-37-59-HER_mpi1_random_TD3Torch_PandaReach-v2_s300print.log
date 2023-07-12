@@ -1,0 +1,23 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-02-15_HER_mpi1_random_TD3Torch_PandaReach-v2/2023-02-15_10-37-59-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+right -2.7401629034320507
+epoch: 0 	ep: 12 	ep_rew: -12.74016290343205 	time: 0.214 	done: 1
+right -4.328749398795427
+epoch: 0 	ep: 14 	ep_rew: -14.328749398795427 	time: 0.2 	done: 1
+right -6.926910341584701
+epoch: 0 	ep: 15 	ep_rew: -44.73440565077185 	time: 0.201 	done: 1
+right -2.1562304659553693
+epoch: 0 	ep: 20 	ep_rew: -12.15623046595537 	time: 0.198 	done: 1
+right -4.431531149761428
+epoch: 0 	ep: 21 	ep_rew: -14.431531149761428 	time: 0.2 	done: 1

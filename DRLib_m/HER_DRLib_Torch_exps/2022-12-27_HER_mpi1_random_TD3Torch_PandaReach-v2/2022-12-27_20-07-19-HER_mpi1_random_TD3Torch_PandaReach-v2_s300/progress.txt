@@ -1,0 +1,2 @@
+Epoch	EpRet	EpRealRet	TestEpRet	AverageQ1	StdQ1	MaxQ1	MinQ1	Q2	TestSuccess	TotalEnvInteracts	TotalTime
+0	-42.06334	-42.06334	0.0	-47.30077	7.819548	0.011337008	-55.61186	-47.245388	0.0	196982	30.23747205734253

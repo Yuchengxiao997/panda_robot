@@ -1,0 +1,972 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-02-17_HER_mpi1_random_TD3Torch_PandaReach-v2/2023-02-17_18-59-34-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+right -9.833275042442743
+epoch: 0 	ep: 2 	ep_rew: -9.833275042442743 	time: 0.208 	done: 1
+right -13.909608159435294
+epoch: 0 	ep: 17 	ep_rew: -13.909608159435294 	time: 0.208 	done: 1
+right -9.664933846988152
+epoch: 0 	ep: 25 	ep_rew: -9.664933846988152 	time: 0.201 	done: 1
+right -8.567324968846915
+epoch: 0 	ep: 37 	ep_rew: -8.567324968846915 	time: 0.197 	done: 1
+right -4.749135009678692
+epoch: 0 	ep: 38 	ep_rew: -4.749135009678692 	time: 0.194 	done: 1
+right -2.109833537926068
+epoch: 0 	ep: 41 	ep_rew: -2.109833537926068 	time: 0.197 	done: 1
+right -4.03925798342711
+epoch: 0 	ep: 43 	ep_rew: -4.03925798342711 	time: 0.194 	done: 1
+right 1.9752111364381975
+epoch: 0 	ep: 44 	ep_rew: 1.9752111364381975 	time: 0.191 	done: 1
+right -1.6809760603396953
+epoch: 0 	ep: 45 	ep_rew: -1.6809760603396953 	time: 0.194 	done: 1
+right -6.72813250059275
+epoch: 0 	ep: 46 	ep_rew: -6.72813250059275 	time: 0.194 	done: 1
+right -2.6486730535003193
+epoch: 0 	ep: 47 	ep_rew: -2.6486730535003193 	time: 0.194 	done: 1
+right -4.730932998948177
+epoch: 0 	ep: 48 	ep_rew: -4.730932998948177 	time: 0.197 	done: 1
+right 0.05485865647863264
+right -4.402665442923311
+right -3.176665623588999
+right -2.190058609400001
+right -2.5126979487662062
+right -4.494745385093248
+right 0.43032288092862814
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |           -8.81 |
+|         EpRealRet |           -8.81 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -24.5 |
+|             StdQ1 |              12 |
+|             MaxQ1 |            3.57 |
+|             MinQ1 |           -89.7 |
+|                Q2 |           -24.5 |
+|       TestSuccess |             0.7 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |            86.3 |
+---------------------------------------
+bad
+right -2.3506448819865824
+epoch: 1 	ep: 1 	ep_rew: -2.3506448819865824 	time: 0.199 	done: 1
+right -0.6903693839017642
+epoch: 1 	ep: 2 	ep_rew: -0.6903693839017642 	time: 0.197 	done: 1
+right -1.8633259450077233
+epoch: 1 	ep: 3 	ep_rew: -1.8633259450077233 	time: 0.198 	done: 1
+right 3.841974667918131
+epoch: 1 	ep: 7 	ep_rew: 3.841974667918131 	time: 0.201 	done: 1
+right 4.113123360316307
+epoch: 1 	ep: 9 	ep_rew: 4.113123360316307 	time: 0.195 	done: 1
+right 0.00395324357658744
+epoch: 1 	ep: 19 	ep_rew: 0.00395324357658744 	time: 0.194 	done: 1
+right -0.2130717654275749
+epoch: 1 	ep: 22 	ep_rew: -0.2130717654275749 	time: 0.194 	done: 1
+right -2.6809159594098375
+epoch: 1 	ep: 25 	ep_rew: -2.6809159594098375 	time: 0.191 	done: 1
+right -0.8988438795973899
+epoch: 1 	ep: 26 	ep_rew: -0.8988438795973899 	time: 0.194 	done: 1
+right 0.538723195020216
+epoch: 1 	ep: 27 	ep_rew: 0.538723195020216 	time: 0.197 	done: 1
+right -0.7688183746078074
+epoch: 1 	ep: 30 	ep_rew: -0.7688183746078074 	time: 0.194 	done: 1
+right 1.4142826107534887
+epoch: 1 	ep: 32 	ep_rew: 1.4142826107534887 	time: 0.199 	done: 1
+right -7.101381559868006
+epoch: 1 	ep: 33 	ep_rew: -7.101381559868006 	time: 0.199 	done: 1
+right -1.6946981340015217
+epoch: 1 	ep: 34 	ep_rew: -1.6946981340015217 	time: 0.201 	done: 1
+right -3.64636426883035
+epoch: 1 	ep: 36 	ep_rew: -3.64636426883035 	time: 0.198 	done: 1
+right -2.9584283827670887
+epoch: 1 	ep: 37 	ep_rew: -2.9584283827670887 	time: 0.198 	done: 1
+right -3.3157992102527984
+epoch: 1 	ep: 38 	ep_rew: -3.3157992102527984 	time: 0.197 	done: 1
+right -2.5598505347231395
+epoch: 1 	ep: 41 	ep_rew: -2.5598505347231395 	time: 0.194 	done: 1
+right -4.02163965412427
+epoch: 1 	ep: 43 	ep_rew: -4.02163965412427 	time: 0.201 	done: 1
+right -0.3767084647757031
+epoch: 1 	ep: 46 	ep_rew: -0.3767084647757031 	time: 0.197 	done: 1
+right -1.216342722624395
+epoch: 1 	ep: 47 	ep_rew: -1.216342722624395 	time: 0.201 	done: 1
+right -4.730138634590368
+right 0.5272003575533457
+right -3.8318426911352272
+right -2.867294269893259
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |           -5.04 |
+|         EpRealRet |           -5.04 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -16.8 |
+|             StdQ1 |            13.9 |
+|             MaxQ1 |            24.8 |
+|             MinQ1 |           -53.1 |
+|                Q2 |           -16.8 |
+|       TestSuccess |             0.4 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |             174 |
+---------------------------------------
+right -3.3761989906944017
+epoch: 2 	ep: 2 	ep_rew: -3.3761989906944017 	time: 0.194 	done: 1
+right 0.174024419313918
+epoch: 2 	ep: 3 	ep_rew: 0.174024419313918 	time: 0.194 	done: 1
+right 1.0026981231324736
+epoch: 2 	ep: 4 	ep_rew: 1.0026981231324736 	time: 0.199 	done: 1
+right -1.0564546554217547
+epoch: 2 	ep: 6 	ep_rew: -1.0564546554217547 	time: 0.197 	done: 1
+right -0.8893873432820882
+epoch: 2 	ep: 8 	ep_rew: -0.8893873432820882 	time: 0.199 	done: 1
+right -2.091030069005676
+epoch: 2 	ep: 10 	ep_rew: -2.091030069005676 	time: 0.198 	done: 1
+right 0.9875633130419619
+epoch: 2 	ep: 11 	ep_rew: 0.9875633130419619 	time: 0.198 	done: 1
+right -0.7799041741247752
+epoch: 2 	ep: 16 	ep_rew: -0.7799041741247752 	time: 0.194 	done: 1
+right -1.476201442537004
+epoch: 2 	ep: 20 	ep_rew: -1.476201442537004 	time: 0.194 	done: 1
+right -0.6512003907341697
+epoch: 2 	ep: 21 	ep_rew: -0.6512003907341697 	time: 0.197 	done: 1
+right -0.10128774720426215
+epoch: 2 	ep: 23 	ep_rew: -0.10128774720426215 	time: 0.199 	done: 1
+right -5.798147292667824
+epoch: 2 	ep: 24 	ep_rew: -5.798147292667824 	time: 0.199 	done: 1
+right -1.520012170736214
+epoch: 2 	ep: 26 	ep_rew: -1.520012170736214 	time: 0.197 	done: 1
+right -3.2991684160564674
+epoch: 2 	ep: 28 	ep_rew: -3.2991684160564674 	time: 0.199 	done: 1
+right -6.06943397877367
+epoch: 2 	ep: 29 	ep_rew: -6.06943397877367 	time: 0.194 	done: 1
+right -7.740170396190091
+epoch: 2 	ep: 37 	ep_rew: -7.740170396190091 	time: 0.199 	done: 1
+right -3.139204565093454
+epoch: 2 	ep: 38 	ep_rew: -3.139204565093454 	time: 0.201 	done: 1
+right -0.32763317282140925
+epoch: 2 	ep: 42 	ep_rew: -0.32763317282140925 	time: 0.197 	done: 1
+right -2.7119535430265636
+epoch: 2 	ep: 43 	ep_rew: -2.7119535430265636 	time: 0.194 	done: 1
+right -3.4107079948756756
+epoch: 2 	ep: 49 	ep_rew: -3.4107079948756756 	time: 0.197 	done: 1
+right -6.6554510010635966
+right -0.869634335852215
+right -4.579323878321002
+right 0.37867290138781584
+right -1.7411574417218887
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |           -3.98 |
+|         EpRealRet |           -3.98 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -18.7 |
+|             StdQ1 |            15.2 |
+|             MaxQ1 |            11.6 |
+|             MinQ1 |           -58.5 |
+|                Q2 |           -18.7 |
+|       TestSuccess |             0.5 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             262 |
+---------------------------------------
+right -4.481488102381297
+epoch: 3 	ep: 0 	ep_rew: -4.481488102381297 	time: 0.194 	done: 1
+right -2.276480007702217
+epoch: 3 	ep: 1 	ep_rew: -2.276480007702217 	time: 0.194 	done: 1
+right 0.8221205332895476
+epoch: 3 	ep: 8 	ep_rew: 0.8221205332895476 	time: 0.201 	done: 1
+right -5.414677330909161
+epoch: 3 	ep: 13 	ep_rew: -5.414677330909161 	time: 0.197 	done: 1
+right -5.114359986996938
+epoch: 3 	ep: 15 	ep_rew: -5.114359986996938 	time: 0.197 	done: 1
+right -4.248101496856577
+epoch: 3 	ep: 19 	ep_rew: -4.248101496856577 	time: 0.197 	done: 1
+right -6.845029794445313
+epoch: 3 	ep: 20 	ep_rew: -6.845029794445313 	time: 0.199 	done: 1
+right -3.563686662811186
+epoch: 3 	ep: 23 	ep_rew: -3.563686662811186 	time: 0.201 	done: 1
+right -1.9752729898405068
+epoch: 3 	ep: 24 	ep_rew: -1.9752729898405068 	time: 0.195 	done: 1
+right -7.90097506406649
+epoch: 3 	ep: 26 	ep_rew: -7.90097506406649 	time: 0.184 	done: 1
+right -6.121966407074964
+epoch: 3 	ep: 28 	ep_rew: -6.121966407074964 	time: 0.189 	done: 1
+right 0.1909924293244103
+epoch: 3 	ep: 33 	ep_rew: 0.1909924293244103 	time: 0.189 	done: 1
+right -3.4087517511271326
+epoch: 3 	ep: 34 	ep_rew: -3.4087517511271326 	time: 0.19 	done: 1
+right -0.7620191982891829
+epoch: 3 	ep: 40 	ep_rew: -0.7620191982891829 	time: 0.194 	done: 1
+right -1.9137684781913489
+epoch: 3 	ep: 41 	ep_rew: -1.9137684781913489 	time: 0.194 	done: 1
+right -7.708036553825803
+epoch: 3 	ep: 44 	ep_rew: -7.708036553825803 	time: 0.199 	done: 1
+right -2.9806031148265983
+epoch: 3 	ep: 46 	ep_rew: -2.9806031148265983 	time: 0.197 	done: 1
+right -2.681866422951625
+epoch: 3 	ep: 48 	ep_rew: -2.681866422951625 	time: 0.207 	done: 1
+right -6.634982986274814
+right -4.444581882828611
+right -3.7463490845320706
+right -4.916335732811243
+---------------------------------------
+|             Epoch |               3 |
+|             EpRet |           -5.59 |
+|         EpRealRet |           -5.59 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -24.9 |
+|             StdQ1 |            19.6 |
+|             MaxQ1 |            22.8 |
+|             MinQ1 |           -70.1 |
+|                Q2 |           -24.9 |
+|       TestSuccess |             0.4 |
+| TotalEnvInteracts |           8e+05 |
+|         TotalTime |             350 |
+---------------------------------------
+right -0.14238514290877013
+epoch: 4 	ep: 0 	ep_rew: -0.14238514290877013 	time: 0.198 	done: 1
+right 1.7150172751687887
+epoch: 4 	ep: 3 	ep_rew: 1.7150172751687887 	time: 0.198 	done: 1
+right -6.050157437688181
+epoch: 4 	ep: 7 	ep_rew: -6.050157437688181 	time: 0.197 	done: 1
+right -5.828078604981879
+epoch: 4 	ep: 8 	ep_rew: -5.828078604981879 	time: 0.194 	done: 1
+right -0.32592483184771837
+epoch: 4 	ep: 13 	ep_rew: -0.32592483184771837 	time: 0.191 	done: 1
+right -8.988168551344899
+epoch: 4 	ep: 16 	ep_rew: -8.988168551344899 	time: 0.189 	done: 1
+right -2.081802106484192
+epoch: 4 	ep: 21 	ep_rew: -2.081802106484192 	time: 0.189 	done: 1
+right -6.093773557441786
+epoch: 4 	ep: 22 	ep_rew: -6.093773557441786 	time: 0.188 	done: 1
+right -2.0242463727502447
+epoch: 4 	ep: 23 	ep_rew: -2.0242463727502447 	time: 0.194 	done: 1
+right -0.14934401472649128
+epoch: 4 	ep: 24 	ep_rew: -0.14934401472649128 	time: 0.197 	done: 1
+right -6.087607710828948
+epoch: 4 	ep: 26 	ep_rew: -6.087607710828948 	time: 0.194 	done: 1
+right -9.75497106471327
+epoch: 4 	ep: 30 	ep_rew: -9.75497106471327 	time: 0.197 	done: 1
+right -2.7021655906290416
+epoch: 4 	ep: 33 	ep_rew: -2.7021655906290416 	time: 0.197 	done: 1
+right -3.9809016552187053
+epoch: 4 	ep: 37 	ep_rew: -3.9809016552187053 	time: 0.201 	done: 1
+right -7.459661948912856
+epoch: 4 	ep: 39 	ep_rew: -7.459661948912856 	time: 0.197 	done: 1
+right -2.0515932107503065
+epoch: 4 	ep: 40 	ep_rew: -2.0515932107503065 	time: 0.197 	done: 1
+right -2.2841070646452124
+epoch: 4 	ep: 41 	ep_rew: -2.2841070646452124 	time: 0.194 	done: 1
+right -3.286988784484034
+epoch: 4 	ep: 43 	ep_rew: -3.286988784484034 	time: 0.194 	done: 1
+right -3.306686817288014
+epoch: 4 	ep: 49 	ep_rew: -3.306686817288014 	time: 0.197 	done: 1
+right -0.702975596851152
+right -0.1284319994526797
+right -4.58362215147746
+---------------------------------------
+|             Epoch |               4 |
+|             EpRet |           -5.08 |
+|         EpRealRet |           -5.08 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -25.5 |
+|             StdQ1 |            19.8 |
+|             MaxQ1 |            22.2 |
+|             MinQ1 |            -110 |
+|                Q2 |           -25.5 |
+|       TestSuccess |             0.3 |
+| TotalEnvInteracts |           1e+06 |
+|         TotalTime |             437 |
+---------------------------------------
+right -3.184855907574814
+epoch: 5 	ep: 1 	ep_rew: -3.184855907574814 	time: 0.198 	done: 1
+right -5.449158912950427
+epoch: 5 	ep: 8 	ep_rew: -5.449158912950427 	time: 0.198 	done: 1
+right -1.1602996447760177
+epoch: 5 	ep: 9 	ep_rew: -1.1602996447760177 	time: 0.194 	done: 1
+bad
+right -0.7328358472945578
+epoch: 5 	ep: 12 	ep_rew: -0.7328358472945578 	time: 0.197 	done: 1
+right -2.4748544829765766
+epoch: 5 	ep: 18 	ep_rew: -2.4748544829765766 	time: 0.197 	done: 1
+right -3.153942649556127
+epoch: 5 	ep: 20 	ep_rew: -3.153942649556127 	time: 0.194 	done: 1
+right -2.7488539427062975
+epoch: 5 	ep: 24 	ep_rew: -2.7488539427062975 	time: 0.197 	done: 1
+right -11.328503704888249
+epoch: 5 	ep: 30 	ep_rew: -11.328503704888249 	time: 0.197 	done: 1
+right -5.644188799610298
+epoch: 5 	ep: 34 	ep_rew: -5.644188799610298 	time: 0.197 	done: 1
+right -2.0631958510474675
+epoch: 5 	ep: 45 	ep_rew: -2.0631958510474675 	time: 0.194 	done: 1
+right -2.685556090471584
+epoch: 5 	ep: 46 	ep_rew: -2.685556090471584 	time: 0.19 	done: 1
+right -3.1133474707646354
+epoch: 5 	ep: 47 	ep_rew: -3.1133474707646354 	time: 0.189 	done: 1
+right -1.3696328699805083
+right -4.75034707411676
+right -4.245116326200705
+right -0.3830659616616483
+right -6.382801091625684
+---------------------------------------
+|             Epoch |               5 |
+|             EpRet |           -6.95 |
+|         EpRealRet |           -6.95 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -27 |
+|             StdQ1 |            20.4 |
+|             MaxQ1 |            26.6 |
+|             MinQ1 |            -148 |
+|                Q2 |             -27 |
+|       TestSuccess |             0.5 |
+| TotalEnvInteracts |         1.2e+06 |
+|         TotalTime |             524 |
+---------------------------------------
+right -1.2552462449800483
+epoch: 6 	ep: 2 	ep_rew: -1.2552462449800483 	time: 0.191 	done: 1
+right -0.8672038580588541
+epoch: 6 	ep: 3 	ep_rew: -0.8672038580588541 	time: 0.194 	done: 1
+right -2.77313309291306
+epoch: 6 	ep: 7 	ep_rew: -2.77313309291306 	time: 0.194 	done: 1
+right -8.161180040842318
+epoch: 6 	ep: 8 	ep_rew: -8.161180040842318 	time: 0.197 	done: 1
+right -0.8505845758142154
+epoch: 6 	ep: 14 	ep_rew: -0.8505845758142154 	time: 0.194 	done: 1
+right -10.286117228436844
+epoch: 6 	ep: 15 	ep_rew: -10.286117228436844 	time: 0.197 	done: 1
+right -4.327837871606189
+epoch: 6 	ep: 18 	ep_rew: -4.327837871606189 	time: 0.199 	done: 1
+right -2.051713643679051
+epoch: 6 	ep: 19 	ep_rew: -2.051713643679051 	time: 0.21 	done: 1
+right -3.029632231913279
+epoch: 6 	ep: 21 	ep_rew: -3.029632231913279 	time: 0.194 	done: 1
+right -1.0264589273972735
+epoch: 6 	ep: 23 	ep_rew: -1.0264589273972735 	time: 0.194 	done: 1
+right 0.34231143782840334
+epoch: 6 	ep: 24 	ep_rew: 0.34231143782840334 	time: 0.194 	done: 1
+right -0.9950480331339211
+epoch: 6 	ep: 25 	ep_rew: -0.9950480331339211 	time: 0.194 	done: 1
+right -3.5413292185351217
+epoch: 6 	ep: 26 	ep_rew: -3.5413292185351217 	time: 0.197 	done: 1
+right 0.46906327680761883
+epoch: 6 	ep: 27 	ep_rew: 0.46906327680761883 	time: 0.194 	done: 1
+right -0.9333616719390658
+epoch: 6 	ep: 33 	ep_rew: -0.9333616719390658 	time: 0.197 	done: 1
+right -5.32196793643582
+epoch: 6 	ep: 35 	ep_rew: -5.32196793643582 	time: 0.194 	done: 1
+right -1.3067153726799674
+epoch: 6 	ep: 36 	ep_rew: -1.3067153726799674 	time: 0.197 	done: 1
+right -4.029151189830884
+epoch: 6 	ep: 38 	ep_rew: -4.029151189830884 	time: 0.194 	done: 1
+right -3.098649075119413
+epoch: 6 	ep: 44 	ep_rew: -3.098649075119413 	time: 0.197 	done: 1
+right -7.630680708240764
+epoch: 6 	ep: 48 	ep_rew: -7.630680708240764 	time: 0.199 	done: 1
+right -1.4850610455542572
+right -1.2798892910773034
+right -0.3444422350997005
+right -0.2513322587621687
+right -1.3689258955905927
+---------------------------------------
+|             Epoch |               6 |
+|             EpRet |           -5.13 |
+|         EpRealRet |           -5.13 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -28.5 |
+|             StdQ1 |            20.9 |
+|             MaxQ1 |            17.7 |
+|             MinQ1 |             -86 |
+|                Q2 |           -28.5 |
+|       TestSuccess |             0.5 |
+| TotalEnvInteracts |         1.4e+06 |
+|         TotalTime |             611 |
+---------------------------------------
+right 0.2906662034537444
+epoch: 7 	ep: 0 	ep_rew: 0.2906662034537444 	time: 0.201 	done: 1
+right -1.7706408868956398
+epoch: 7 	ep: 2 	ep_rew: -1.7706408868956398 	time: 0.194 	done: 1
+right -1.844941635662984
+epoch: 7 	ep: 3 	ep_rew: -1.844941635662984 	time: 0.194 	done: 1
+right -1.4133670504819484
+epoch: 7 	ep: 5 	ep_rew: -1.4133670504819484 	time: 0.197 	done: 1
+right -3.220984965793477
+epoch: 7 	ep: 6 	ep_rew: -3.220984965793477 	time: 0.197 	done: 1
+right -4.258341970032561
+epoch: 7 	ep: 7 	ep_rew: -4.258341970032561 	time: 0.194 	done: 1
+right -1.2130803969190929
+epoch: 7 	ep: 8 	ep_rew: -1.2130803969190929 	time: 0.197 	done: 1
+right -2.9861600122630136
+epoch: 7 	ep: 11 	ep_rew: -2.9861600122630136 	time: 0.197 	done: 1
+right -0.7331207150500489
+epoch: 7 	ep: 13 	ep_rew: -0.7331207150500489 	time: 0.197 	done: 1
+right -1.2320462941333297
+epoch: 7 	ep: 14 	ep_rew: -1.2320462941333297 	time: 0.19 	done: 1
+right -6.479335291902743
+epoch: 7 	ep: 21 	ep_rew: -6.479335291902743 	time: 0.186 	done: 1
+right -6.966211091401778
+epoch: 7 	ep: 28 	ep_rew: -6.966211091401778 	time: 0.194 	done: 1
+right -0.48819121763410855
+epoch: 7 	ep: 29 	ep_rew: -0.48819121763410855 	time: 0.197 	done: 1
+right -8.026437875843456
+epoch: 7 	ep: 38 	ep_rew: -8.026437875843456 	time: 0.197 	done: 1
+right -0.46054973935985544
+epoch: 7 	ep: 42 	ep_rew: -0.46054973935985544 	time: 0.199 	done: 1
+right -0.6818915491731818
+epoch: 7 	ep: 43 	ep_rew: -0.6818915491731818 	time: 0.197 	done: 1
+right 0.07387630786684518
+epoch: 7 	ep: 48 	ep_rew: 0.07387630786684518 	time: 0.197 	done: 1
+right -2.577676175438473
+epoch: 7 	ep: 49 	ep_rew: -2.577676175438473 	time: 0.197 	done: 1
+right -3.2605220383763633
+---------------------------------------
+|             Epoch |               7 |
+|             EpRet |           -6.13 |
+|         EpRealRet |           -6.13 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -27.3 |
+|             StdQ1 |            20.9 |
+|             MaxQ1 |            25.7 |
+|             MinQ1 |           -73.8 |
+|                Q2 |           -27.3 |
+|       TestSuccess |             0.1 |
+| TotalEnvInteracts |         1.6e+06 |
+|         TotalTime |             698 |
+---------------------------------------
+right -0.26496180426302196
+epoch: 8 	ep: 0 	ep_rew: -0.26496180426302196 	time: 0.205 	done: 1
+right -1.5537627945028536
+epoch: 8 	ep: 2 	ep_rew: -1.5537627945028536 	time: 0.201 	done: 1
+right -1.9830930968247156
+epoch: 8 	ep: 3 	ep_rew: -1.9830930968247156 	time: 0.207 	done: 1
+right -0.7070489663038906
+epoch: 8 	ep: 5 	ep_rew: -0.7070489663038906 	time: 0.197 	done: 1
+right -0.5148031264543
+epoch: 8 	ep: 7 	ep_rew: -0.5148031264543 	time: 0.193 	done: 1
+bad
+right -0.02309710038932522
+epoch: 8 	ep: 11 	ep_rew: -0.02309710038932522 	time: 0.189 	done: 1
+right -0.31421740317569125
+epoch: 8 	ep: 13 	ep_rew: -0.31421740317569125 	time: 0.189 	done: 1
+right -0.9091993277488761
+epoch: 8 	ep: 15 	ep_rew: -0.9091993277488761 	time: 0.194 	done: 1
+right -2.9092896597208995
+epoch: 8 	ep: 16 	ep_rew: -2.9092896597208995 	time: 0.194 	done: 1
+right -1.2362482446079266
+epoch: 8 	ep: 17 	ep_rew: -1.2362482446079266 	time: 0.197 	done: 1
+right 0.273902753563954
+epoch: 8 	ep: 19 	ep_rew: 0.273902753563954 	time: 0.194 	done: 1
+right -0.7518012123519195
+epoch: 8 	ep: 21 	ep_rew: -0.7518012123519195 	time: 0.197 	done: 1
+right 1.3640145602518707
+epoch: 8 	ep: 23 	ep_rew: 1.3640145602518707 	time: 0.197 	done: 1
+right -1.2679519816404294
+epoch: 8 	ep: 28 	ep_rew: -1.2679519816404294 	time: 0.197 	done: 1
+right -0.8057640656815188
+epoch: 8 	ep: 31 	ep_rew: -0.8057640656815188 	time: 0.194 	done: 1
+right -1.7275817277350285
+epoch: 8 	ep: 32 	ep_rew: -1.7275817277350285 	time: 0.197 	done: 1
+right -3.4452238501819927
+epoch: 8 	ep: 33 	ep_rew: -3.4452238501819927 	time: 0.198 	done: 1
+right -2.495954727834082
+epoch: 8 	ep: 36 	ep_rew: -2.495954727834082 	time: 0.207 	done: 1
+right -0.4908440043662097
+epoch: 8 	ep: 37 	ep_rew: -0.4908440043662097 	time: 0.194 	done: 1
+right -1.341132408905585
+epoch: 8 	ep: 39 	ep_rew: -1.341132408905585 	time: 0.197 	done: 1
+right -0.6585350595940636
+epoch: 8 	ep: 40 	ep_rew: -0.6585350595940636 	time: 0.197 	done: 1
+right -0.2872719670724635
+epoch: 8 	ep: 41 	ep_rew: -0.2872719670724635 	time: 0.197 	done: 1
+right -4.673545477804977
+epoch: 8 	ep: 44 	ep_rew: -4.673545477804977 	time: 0.197 	done: 1
+right -0.5507346550635752
+epoch: 8 	ep: 46 	ep_rew: -0.5507346550635752 	time: 0.194 	done: 1
+right -1.2389601130295347
+right -1.7895735224535834
+right -3.87773754465986
+---------------------------------------
+|             Epoch |               8 |
+|             EpRet |           -3.99 |
+|         EpRealRet |           -3.99 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -26.3 |
+|             StdQ1 |            20.7 |
+|             MaxQ1 |            32.7 |
+|             MinQ1 |           -73.7 |
+|                Q2 |           -26.3 |
+|       TestSuccess |             0.3 |
+| TotalEnvInteracts |         1.8e+06 |
+|         TotalTime |             785 |
+---------------------------------------
+right 0.8164746318717135
+epoch: 9 	ep: 2 	ep_rew: 0.8164746318717135 	time: 0.19 	done: 1
+right -3.571027314852387
+epoch: 9 	ep: 5 	ep_rew: -3.571027314852387 	time: 0.194 	done: 1
+right -0.9072988229892243
+epoch: 9 	ep: 14 	ep_rew: -0.9072988229892243 	time: 0.194 	done: 1
+right -2.3711210835122607
+epoch: 9 	ep: 18 	ep_rew: -2.3711210835122607 	time: 0.194 	done: 1
+right -7.981375948382517
+epoch: 9 	ep: 20 	ep_rew: -7.981375948382517 	time: 0.194 	done: 1
+right -1.6770152257889777
+epoch: 9 	ep: 23 	ep_rew: -1.6770152257889777 	time: 0.198 	done: 1
+right -2.566305544164633
+epoch: 9 	ep: 24 	ep_rew: -2.566305544164633 	time: 0.197 	done: 1
+right -2.871489564979047
+epoch: 9 	ep: 32 	ep_rew: -2.871489564979047 	time: 0.205 	done: 1
+right -2.425395712450209
+epoch: 9 	ep: 35 	ep_rew: -2.425395712450209 	time: 0.197 	done: 1
+right -4.453746210858274
+epoch: 9 	ep: 37 	ep_rew: -4.453746210858274 	time: 0.199 	done: 1
+right -1.1491397650487656
+epoch: 9 	ep: 42 	ep_rew: -1.1491397650487656 	time: 0.198 	done: 1
+right -0.4579689333152732
+epoch: 9 	ep: 44 	ep_rew: -0.4579689333152732 	time: 0.199 	done: 1
+right -0.9037558411361175
+epoch: 9 	ep: 45 	ep_rew: -0.9037558411361175 	time: 0.197 	done: 1
+right -2.2897928895760344
+epoch: 9 	ep: 46 	ep_rew: -2.2897928895760344 	time: 0.197 	done: 1
+right -0.30591714384459934
+epoch: 9 	ep: 47 	ep_rew: -0.30591714384459934 	time: 0.195 	done: 1
+right -5.627820732140883
+right -2.434339165723415
+right -3.2833077853116794
+right 0.3853426712893828
+right -2.0670095592968707
+right -6.5257071969017275
+---------------------------------------
+|             Epoch |               9 |
+|             EpRet |           -6.76 |
+|         EpRealRet |           -6.76 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -27.1 |
+|             StdQ1 |            20.7 |
+|             MaxQ1 |            21.7 |
+|             MinQ1 |           -94.8 |
+|                Q2 |           -27.1 |
+|       TestSuccess |             0.6 |
+| TotalEnvInteracts |        2.01e+06 |
+|         TotalTime |             872 |
+---------------------------------------
+right -5.994968761412974
+epoch: 10 	ep: 6 	ep_rew: -5.994968761412974 	time: 0.194 	done: 1
+right -1.8866923285476656
+epoch: 10 	ep: 7 	ep_rew: -1.8866923285476656 	time: 0.197 	done: 1
+right 0.22308055912911584
+epoch: 10 	ep: 9 	ep_rew: 0.22308055912911584 	time: 0.194 	done: 1
+right 0.9738123839336517
+epoch: 10 	ep: 10 	ep_rew: 0.9738123839336517 	time: 0.199 	done: 1
+right -1.5231536601877131
+epoch: 10 	ep: 12 	ep_rew: -1.5231536601877131 	time: 0.197 	done: 1
+right 0.01581674919346554
+epoch: 10 	ep: 13 	ep_rew: 0.01581674919346554 	time: 0.197 	done: 1
+right 0.6550339132676584
+epoch: 10 	ep: 16 	ep_rew: 0.6550339132676584 	time: 0.197 	done: 1
+right -2.274209001192631
+epoch: 10 	ep: 18 	ep_rew: -2.274209001192631 	time: 0.197 	done: 1
+right -4.69883883784529
+epoch: 10 	ep: 19 	ep_rew: -4.69883883784529 	time: 0.194 	done: 1
+right -3.48966924913527
+epoch: 10 	ep: 20 	ep_rew: -3.48966924913527 	time: 0.194 	done: 1
+right -2.547741263908348
+epoch: 10 	ep: 22 	ep_rew: -2.547741263908348 	time: 0.194 	done: 1
+right -1.6572248922169024
+epoch: 10 	ep: 23 	ep_rew: -1.6572248922169024 	time: 0.194 	done: 1
+right -2.254825332198802
+epoch: 10 	ep: 24 	ep_rew: -2.254825332198802 	time: 0.194 	done: 1
+right -4.325766687975829
+epoch: 10 	ep: 25 	ep_rew: -4.325766687975829 	time: 0.194 	done: 1
+right 1.992012304868977
+epoch: 10 	ep: 27 	ep_rew: 1.992012304868977 	time: 0.194 	done: 1
+bad
+right -2.183988363132425
+epoch: 10 	ep: 36 	ep_rew: -2.183988363132425 	time: 0.194 	done: 1
+right -2.096775260557969
+epoch: 10 	ep: 39 	ep_rew: -2.096775260557969 	time: 0.197 	done: 1
+right -1.8941760548744373
+epoch: 10 	ep: 40 	ep_rew: -1.8941760548744373 	time: 0.198 	done: 1
+right -5.108358169815176
+epoch: 10 	ep: 41 	ep_rew: -5.108358169815176 	time: 0.209 	done: 1
+right -2.893145866585831
+epoch: 10 	ep: 43 	ep_rew: -2.893145866585831 	time: 0.194 	done: 1
+right -1.7459853412693338
+epoch: 10 	ep: 46 	ep_rew: -1.7459853412693338 	time: 0.199 	done: 1
+right -1.171239804896933
+epoch: 10 	ep: 48 	ep_rew: -1.171239804896933 	time: 0.199 	done: 1
+right -2.313165349641281
+epoch: 10 	ep: 49 	ep_rew: -2.313165349641281 	time: 0.194 	done: 1
+right -2.723819998172182
+right -3.651568680214396
+right -2.7727003698180788
+---------------------------------------
+|             Epoch |              10 |
+|             EpRet |           -5.51 |
+|         EpRealRet |           -5.51 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -29.1 |
+|             StdQ1 |            21.2 |
+|             MaxQ1 |            21.4 |
+|             MinQ1 |           -83.6 |
+|                Q2 |           -29.1 |
+|       TestSuccess |             0.3 |
+| TotalEnvInteracts |        2.21e+06 |
+|         TotalTime |             960 |
+---------------------------------------
+right -2.6630801660940655
+epoch: 11 	ep: 0 	ep_rew: -2.6630801660940655 	time: 0.194 	done: 1
+right -2.2762001698838468
+epoch: 11 	ep: 2 	ep_rew: -2.2762001698838468 	time: 0.194 	done: 1
+right -0.4448032759671783
+epoch: 11 	ep: 5 	ep_rew: -0.4448032759671783 	time: 0.197 	done: 1
+right -1.7314303468463148
+epoch: 11 	ep: 6 	ep_rew: -1.7314303468463148 	time: 0.194 	done: 1
+right -5.7427632069578145
+epoch: 11 	ep: 11 	ep_rew: -5.7427632069578145 	time: 0.197 	done: 1
+right -3.1228508207678196
+epoch: 11 	ep: 12 	ep_rew: -3.1228508207678196 	time: 0.194 	done: 1
+right -0.8641843086618834
+epoch: 11 	ep: 13 	ep_rew: -0.8641843086618834 	time: 0.194 	done: 1
+right 0.41616790414141036
+epoch: 11 	ep: 19 	ep_rew: 0.41616790414141036 	time: 0.191 	done: 1
+right -4.398726717271913
+epoch: 11 	ep: 20 	ep_rew: -4.398726717271913 	time: 0.189 	done: 1
+right -1.9859459947103186
+epoch: 11 	ep: 22 	ep_rew: -1.9859459947103186 	time: 0.188 	done: 1
+right -3.088889635769741
+epoch: 11 	ep: 24 	ep_rew: -3.088889635769741 	time: 0.197 	done: 1
+right -0.2511290936308157
+epoch: 11 	ep: 25 	ep_rew: -0.2511290936308157 	time: 0.194 	done: 1
+right -5.266511324441218
+epoch: 11 	ep: 38 	ep_rew: -5.266511324441218 	time: 0.197 	done: 1
+right -3.6892968854966153
+epoch: 11 	ep: 39 	ep_rew: -3.6892968854966153 	time: 0.197 	done: 1
+right -1.2140599310010316
+epoch: 11 	ep: 40 	ep_rew: -1.2140599310010316 	time: 0.197 	done: 1
+right -3.3755793710561104
+epoch: 11 	ep: 42 	ep_rew: -3.3755793710561104 	time: 0.197 	done: 1
+right -1.241250652336836
+epoch: 11 	ep: 47 	ep_rew: -1.241250652336836 	time: 0.197 	done: 1
+right -3.8870217046972932
+epoch: 11 	ep: 48 	ep_rew: -3.8870217046972932 	time: 0.198 	done: 1
+right -3.3254826730313773
+right -2.9056092682640617
+right -0.45987868502452045
+---------------------------------------
+|             Epoch |              11 |
+|             EpRet |            -6.7 |
+|         EpRealRet |            -6.7 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -29.1 |
+|             StdQ1 |            21.2 |
+|             MaxQ1 |            28.7 |
+|             MinQ1 |           -73.1 |
+|                Q2 |           -29.1 |
+|       TestSuccess |             0.3 |
+| TotalEnvInteracts |        2.41e+06 |
+|         TotalTime |        1.05e+03 |
+---------------------------------------
+right -7.980850574873209
+epoch: 12 	ep: 0 	ep_rew: -7.980850574873209 	time: 0.191 	done: 1
+right -4.554492160875622
+epoch: 12 	ep: 4 	ep_rew: -4.554492160875622 	time: 0.195 	done: 1
+right -2.9515334651412566
+epoch: 12 	ep: 5 	ep_rew: -2.9515334651412566 	time: 0.201 	done: 1
+right -2.398216915913629
+epoch: 12 	ep: 6 	ep_rew: -2.398216915913629 	time: 0.199 	done: 1
+right -1.5764852134384846
+epoch: 12 	ep: 7 	ep_rew: -1.5764852134384846 	time: 0.201 	done: 1
+right 1.6512219599562439
+epoch: 12 	ep: 8 	ep_rew: 1.6512219599562439 	time: 0.197 	done: 1
+right -1.9900723637268687
+epoch: 12 	ep: 10 	ep_rew: -1.9900723637268687 	time: 0.201 	done: 1
+right -1.0212089553636812
+epoch: 12 	ep: 13 	ep_rew: -1.0212089553636812 	time: 0.201 	done: 1
+right -7.088008335971708
+epoch: 12 	ep: 16 	ep_rew: -7.088008335971708 	time: 0.194 	done: 1
+right -2.6315886032931335
+epoch: 12 	ep: 17 	ep_rew: -2.6315886032931335 	time: 0.194 	done: 1
+right -0.023410158171362383
+epoch: 12 	ep: 19 	ep_rew: -0.023410158171362383 	time: 0.201 	done: 1
+right 2.4408863963713916
+epoch: 12 	ep: 21 	ep_rew: 2.4408863963713916 	time: 0.201 	done: 1
+right -1.5210968687444808
+epoch: 12 	ep: 22 	ep_rew: -1.5210968687444808 	time: 0.198 	done: 1
+right -3.7400384533423026
+epoch: 12 	ep: 24 	ep_rew: -3.7400384533423026 	time: 0.197 	done: 1
+right -3.4060351392120793
+epoch: 12 	ep: 45 	ep_rew: -3.4060351392120793 	time: 0.197 	done: 1
+right -1.8336376293431496
+epoch: 12 	ep: 46 	ep_rew: -1.8336376293431496 	time: 0.194 	done: 1
+right -3.860816523222576
+epoch: 12 	ep: 47 	ep_rew: -3.860816523222576 	time: 0.194 	done: 1
+right -7.8578898584302905
+epoch: 12 	ep: 48 	ep_rew: -7.8578898584302905 	time: 0.197 	done: 1
+right -0.24550851737376966
+right -3.0669148346152575
+right -2.9454227206512122
+right -1.5128497652826862
+right -1.4707209545238875
+right 0.3798859063507187
+right -0.6282210099497139
+---------------------------------------
+|             Epoch |              12 |
+|             EpRet |           -5.89 |
+|         EpRealRet |           -5.89 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -28.4 |
+|             StdQ1 |            20.9 |
+|             MaxQ1 |            20.5 |
+|             MinQ1 |           -66.6 |
+|                Q2 |           -28.4 |
+|       TestSuccess |             0.7 |
+| TotalEnvInteracts |        2.61e+06 |
+|         TotalTime |        1.13e+03 |
+---------------------------------------
+right -7.495481830053844
+epoch: 13 	ep: 6 	ep_rew: -7.495481830053844 	time: 0.194 	done: 1
+right -3.683054552803169
+epoch: 13 	ep: 9 	ep_rew: -3.683054552803169 	time: 0.194 	done: 1
+right -6.164648655369007
+epoch: 13 	ep: 12 	ep_rew: -6.164648655369007 	time: 0.197 	done: 1
+right -0.29808431903472865
+epoch: 13 	ep: 14 	ep_rew: -0.29808431903472865 	time: 0.197 	done: 1
+right -0.7566177880903453
+epoch: 13 	ep: 16 	ep_rew: -0.7566177880903453 	time: 0.194 	done: 1
+right -1.7808900229776405
+epoch: 13 	ep: 17 	ep_rew: -1.7808900229776405 	time: 0.194 	done: 1
+right -0.8200142838838236
+epoch: 13 	ep: 18 	ep_rew: -0.8200142838838236 	time: 0.197 	done: 1
+right -1.4838289507693716
+epoch: 13 	ep: 20 	ep_rew: -1.4838289507693716 	time: 0.197 	done: 1
+right -2.912131604925321
+epoch: 13 	ep: 21 	ep_rew: -2.912131604925321 	time: 0.197 	done: 1
+right -2.181324751542702
+epoch: 13 	ep: 25 	ep_rew: -2.181324751542702 	time: 0.199 	done: 1
+right -5.671173304378838
+epoch: 13 	ep: 26 	ep_rew: -5.671173304378838 	time: 0.197 	done: 1
+right 2.304741798586422
+epoch: 13 	ep: 28 	ep_rew: 2.304741798586422 	time: 0.199 	done: 1
+right -2.017303397038688
+epoch: 13 	ep: 30 	ep_rew: -2.017303397038688 	time: 0.199 	done: 1
+right -3.898320941608821
+epoch: 13 	ep: 33 	ep_rew: -3.898320941608821 	time: 0.197 	done: 1
+right -0.6921261964328949
+epoch: 13 	ep: 37 	ep_rew: -0.6921261964328949 	time: 0.199 	done: 1
+right -2.4653773493543625
+epoch: 13 	ep: 41 	ep_rew: -2.4653773493543625 	time: 0.197 	done: 1
+right 0.45531497253037045
+epoch: 13 	ep: 43 	ep_rew: 0.45531497253037045 	time: 0.197 	done: 1
+right -2.488247293728813
+epoch: 13 	ep: 45 	ep_rew: -2.488247293728813 	time: 0.199 	done: 1
+right -0.9854270002125887
+epoch: 13 	ep: 48 	ep_rew: -0.9854270002125887 	time: 0.197 	done: 1
+right 1.4215781480703011
+epoch: 13 	ep: 49 	ep_rew: 1.4215781480703011 	time: 0.197 	done: 1
+right -5.2944853507558385
+right -0.19850301863275988
+right 0.7507186271512882
+right -2.636757593634691
+---------------------------------------
+|             Epoch |              13 |
+|             EpRet |           -4.47 |
+|         EpRealRet |           -4.47 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -28.3 |
+|             StdQ1 |              21 |
+|             MaxQ1 |            32.4 |
+|             MinQ1 |           -63.9 |
+|                Q2 |           -28.3 |
+|       TestSuccess |             0.4 |
+| TotalEnvInteracts |        2.81e+06 |
+|         TotalTime |        1.22e+03 |
+---------------------------------------
+right -3.551696855516669
+epoch: 14 	ep: 2 	ep_rew: -3.551696855516669 	time: 0.191 	done: 1
+right -3.7300569584216774
+epoch: 14 	ep: 3 	ep_rew: -3.7300569584216774 	time: 0.194 	done: 1
+right -3.1775216149133456
+epoch: 14 	ep: 7 	ep_rew: -3.1775216149133456 	time: 0.194 	done: 1
+right -4.382316717606882
+epoch: 14 	ep: 16 	ep_rew: -4.382316717606882 	time: 0.194 	done: 1
+right -3.1074549567757686
+epoch: 14 	ep: 17 	ep_rew: -3.1074549567757686 	time: 0.199 	done: 1
+right -1.6260355737609107
+epoch: 14 	ep: 18 	ep_rew: -1.6260355737609107 	time: 0.2 	done: 1
+right -2.7980191219667816
+epoch: 14 	ep: 21 	ep_rew: -2.7980191219667816 	time: 0.194 	done: 1
+right -1.9472975544175668
+epoch: 14 	ep: 22 	ep_rew: -1.9472975544175668 	time: 0.197 	done: 1
+right -1.85197155337079
+epoch: 14 	ep: 23 	ep_rew: -1.85197155337079 	time: 0.194 	done: 1
+right 1.1873842091063338
+epoch: 14 	ep: 27 	ep_rew: 1.1873842091063338 	time: 0.194 	done: 1
+right -2.8145822259994304
+epoch: 14 	ep: 28 	ep_rew: -2.8145822259994304 	time: 0.194 	done: 1
+bad
+right -2.5162677854951614
+epoch: 14 	ep: 34 	ep_rew: -2.5162677854951614 	time: 0.191 	done: 1
+right 0.6156140606241163
+epoch: 14 	ep: 35 	ep_rew: 0.6156140606241163 	time: 0.197 	done: 1
+right -1.9868616195370024
+epoch: 14 	ep: 39 	ep_rew: -1.9868616195370024 	time: 0.194 	done: 1
+right -4.080026258569136
+epoch: 14 	ep: 40 	ep_rew: -4.080026258569136 	time: 0.197 	done: 1
+right 1.0163303576672753
+epoch: 14 	ep: 42 	ep_rew: 1.0163303576672753 	time: 0.197 	done: 1
+right -0.7273813640121833
+epoch: 14 	ep: 44 	ep_rew: -0.7273813640121833 	time: 0.194 	done: 1
+right -2.619209070020359
+epoch: 14 	ep: 45 	ep_rew: -2.619209070020359 	time: 0.201 	done: 1
+right -2.5562287185886063
+epoch: 14 	ep: 46 	ep_rew: -2.5562287185886063 	time: 0.198 	done: 1
+right -2.14429968921589
+epoch: 14 	ep: 47 	ep_rew: -2.14429968921589 	time: 0.197 	done: 1
+right -0.40279519800048647
+epoch: 14 	ep: 48 	ep_rew: -0.40279519800048647 	time: 0.191 	done: 1
+right -1.2298823039704274
+right -3.480118173964632
+right -6.039194219640244
+---------------------------------------
+|             Epoch |              14 |
+|             EpRet |           -5.06 |
+|         EpRealRet |           -5.06 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -27.9 |
+|             StdQ1 |            20.8 |
+|             MaxQ1 |              29 |
+|             MinQ1 |           -69.4 |
+|                Q2 |           -27.9 |
+|       TestSuccess |             0.3 |
+| TotalEnvInteracts |        3.01e+06 |
+|         TotalTime |        1.31e+03 |
+---------------------------------------
+right -1.8046371254442342
+epoch: 15 	ep: 0 	ep_rew: -1.8046371254442342 	time: 0.19 	done: 1
+right -5.754299973323214
+epoch: 15 	ep: 1 	ep_rew: -5.754299973323214 	time: 0.183 	done: 1
+right -2.835885380763955
+epoch: 15 	ep: 6 	ep_rew: -2.835885380763955 	time: 0.188 	done: 1
+right -0.7667815536601363
+epoch: 15 	ep: 7 	ep_rew: -0.7667815536601363 	time: 0.194 	done: 1
+right -1.5747495040257498
+epoch: 15 	ep: 9 	ep_rew: -1.5747495040257498 	time: 0.194 	done: 1
+right 0.9443834741045016
+epoch: 15 	ep: 11 	ep_rew: 0.9443834741045016 	time: 0.194 	done: 1
+right -3.985928548455732
+epoch: 15 	ep: 16 	ep_rew: -3.985928548455732 	time: 0.201 	done: 1
+right -6.8495852300120035
+epoch: 15 	ep: 19 	ep_rew: -6.8495852300120035 	time: 0.194 	done: 1
+right -1.6867609754231605
+epoch: 15 	ep: 20 	ep_rew: -1.6867609754231605 	time: 0.201 	done: 1
+right -5.6040916504905205
+epoch: 15 	ep: 21 	ep_rew: -5.6040916504905205 	time: 0.191 	done: 1
+right -8.121668584689957
+epoch: 15 	ep: 22 	ep_rew: -8.121668584689957 	time: 0.188 	done: 1
+right -4.18499233543962
+epoch: 15 	ep: 24 	ep_rew: -4.18499233543962 	time: 0.186 	done: 1
+right -2.084139221818548
+epoch: 15 	ep: 27 	ep_rew: -2.084139221818548 	time: 0.194 	done: 1
+right -0.4721155222539508
+epoch: 15 	ep: 31 	ep_rew: -0.4721155222539508 	time: 0.19 	done: 1
+right 1.4236947906752544
+epoch: 15 	ep: 33 	ep_rew: 1.4236947906752544 	time: 0.189 	done: 1
+right -4.080088456878988
+epoch: 15 	ep: 36 	ep_rew: -4.080088456878988 	time: 0.19 	done: 1
+right -2.0286315294961366
+epoch: 15 	ep: 37 	ep_rew: -2.0286315294961366 	time: 0.197 	done: 1
+right -0.3557265948541861
+epoch: 15 	ep: 38 	ep_rew: -0.3557265948541861 	time: 0.194 	done: 1
+right 1.0412581263518899
+epoch: 15 	ep: 44 	ep_rew: 1.0412581263518899 	time: 0.201 	done: 1
+right 4.701203940780658
+epoch: 15 	ep: 45 	ep_rew: 4.701203940780658 	time: 0.201 	done: 1
+right -5.972885274498839
+epoch: 15 	ep: 47 	ep_rew: -5.972885274498839 	time: 0.202 	done: 1
+right -1.0743953150979575
+epoch: 15 	ep: 48 	ep_rew: -1.0743953150979575 	time: 0.201 	done: 1
+right -5.936375514200645
+epoch: 15 	ep: 49 	ep_rew: -5.936375514200645 	time: 0.206 	done: 1
+right -1.6448042585208444
+right -2.532345459792724
+right -7.8903845649060536
+right -3.801754076253525
+right -2.2390681815130407
+---------------------------------------
+|             Epoch |              15 |
+|             EpRet |           -5.02 |
+|         EpRealRet |           -5.02 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -24.7 |
+|             StdQ1 |            20.2 |
+|             MaxQ1 |            29.9 |
+|             MinQ1 |           -64.2 |
+|                Q2 |           -24.7 |
+|       TestSuccess |             0.5 |
+| TotalEnvInteracts |        3.21e+06 |
+|         TotalTime |        1.39e+03 |
+---------------------------------------
+right -1.4391347032595085
+epoch: 16 	ep: 1 	ep_rew: -1.4391347032595085 	time: 0.201 	done: 1
+right 0.40396444280003685
+epoch: 16 	ep: 5 	ep_rew: 0.40396444280003685 	time: 0.201 	done: 1
+right -1.0323318227572855
+epoch: 16 	ep: 8 	ep_rew: -1.0323318227572855 	time: 0.201 	done: 1
+right 4.209950060172801
+epoch: 16 	ep: 9 	ep_rew: 4.209950060172801 	time: 0.201 	done: 1
+right -4.049298258827886
+epoch: 16 	ep: 16 	ep_rew: -4.049298258827886 	time: 0.199 	done: 1
+right -4.9053640277144375
+epoch: 16 	ep: 17 	ep_rew: -4.9053640277144375 	time: 0.201 	done: 1
+right -1.8677079850290852
+epoch: 16 	ep: 18 	ep_rew: -1.8677079850290852 	time: 0.201 	done: 1
+right -0.4207159346442335
+epoch: 16 	ep: 20 	ep_rew: -0.4207159346442335 	time: 0.199 	done: 1
+right -4.4883497344110435
+epoch: 16 	ep: 21 	ep_rew: -4.4883497344110435 	time: 0.202 	done: 1
+right -6.095011669411022
+epoch: 16 	ep: 25 	ep_rew: -6.095011669411022 	time: 0.201 	done: 1
+right -1.155189118566236
+epoch: 16 	ep: 26 	ep_rew: -1.155189118566236 	time: 0.201 	done: 1
+right 1.0666848089320808
+epoch: 16 	ep: 28 	ep_rew: 1.0666848089320808 	time: 0.201 	done: 1
+right -2.770163352439784
+epoch: 16 	ep: 30 	ep_rew: -2.770163352439784 	time: 0.201 	done: 1
+right -1.9648232396409036
+epoch: 16 	ep: 31 	ep_rew: -1.9648232396409036 	time: 0.202 	done: 1
+right -1.0923011331083465
+epoch: 16 	ep: 32 	ep_rew: -1.0923011331083465 	time: 0.202 	done: 1
+right 0.5126293130046768
+epoch: 16 	ep: 33 	ep_rew: 0.5126293130046768 	time: 0.202 	done: 1
+right -3.9054630136828656
+epoch: 16 	ep: 43 	ep_rew: -3.9054630136828656 	time: 0.201 	done: 1
+right -0.7089977575004696
+epoch: 16 	ep: 45 	ep_rew: -0.7089977575004696 	time: 0.206 	done: 1
+right -4.149571630344971
+epoch: 16 	ep: 49 	ep_rew: -4.149571630344971 	time: 0.201 	done: 1
+right -5.601559851451405
+right -1.3374021485075556
+right -1.3714991526943017
+right -0.5087611699422112
+---------------------------------------
+|             Epoch |              16 |
+|             EpRet |           -5.41 |
+|         EpRealRet |           -5.41 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -23.3 |
+|             StdQ1 |            19.9 |
+|             MaxQ1 |            35.9 |
+|             MinQ1 |             -83 |
+|                Q2 |           -23.3 |
+|       TestSuccess |             0.4 |
+| TotalEnvInteracts |        3.41e+06 |
+|         TotalTime |        1.48e+03 |
+---------------------------------------
+right -12.212506459375817
+epoch: 17 	ep: 0 	ep_rew: -12.212506459375817 	time: 0.258 	done: 1

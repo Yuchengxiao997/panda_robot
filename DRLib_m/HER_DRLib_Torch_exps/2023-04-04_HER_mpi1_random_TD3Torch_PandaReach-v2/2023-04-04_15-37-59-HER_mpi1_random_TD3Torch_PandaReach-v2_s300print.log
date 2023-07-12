@@ -1,0 +1,23 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-04-04_HER_mpi1_random_TD3Torch_PandaReach-v2\\2023-04-04_15-37-59-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+midle joint position->>>>>>>> [-2.8381120936131463, 2.3712298702763053, 0.4264587178105925, 1.3542538647090718, 0.3329564635652402, -1.7359328597950165]
+midle joint position->>>>>>>> [2.9738391481114115, 3.103659597216342, -1.035003337504083, 1.7252580943460232, -2.23313597568998, -0.8108960354488919]
+bad
+bad
+bad
+midle joint position->>>>>>>> [-2.8915223740720597, 1.95516283737066, 1.6636491103888518, -0.9482121922561086, 0.412875046521596, -1.8283712213935168]
+very well
+midle joint position->>>>>>>> [-2.8752401900212616, 2.090553857413697, 1.7429286361980316, 0.06289695878822688, -0.12974259733191307, 1.5391172382781089]
+epoch: 5 	ep: 0 	ep_rew: 108.88404877870306 	time: 25.702 	done: 1
+bad

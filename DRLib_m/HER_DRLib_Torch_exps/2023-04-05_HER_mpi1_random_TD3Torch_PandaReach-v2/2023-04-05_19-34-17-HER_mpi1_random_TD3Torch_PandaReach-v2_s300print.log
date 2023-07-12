@@ -1,0 +1,157 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-04-05_HER_mpi1_random_TD3Torch_PandaReach-v2\\2023-04-05_19-34-17-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+right 4.7204515521167
+bad
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+right 0.45662842776028967
+right 7.456262144613694
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+right -3.2747885789404574
+right -5.6875574792722805
+bad
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>
+the batchsize <class 'memory.sp_memory_torch.ReplayBuffer'>

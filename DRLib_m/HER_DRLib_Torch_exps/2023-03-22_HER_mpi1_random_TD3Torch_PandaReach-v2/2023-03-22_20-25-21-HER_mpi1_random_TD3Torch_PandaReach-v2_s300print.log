@@ -1,0 +1,35 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-03-22_HER_mpi1_random_TD3Torch_PandaReach-v2\\2023-03-22_20-25-21-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+well
+epoch: 0 	ep: 1 	ep_rew: 9.292159540242539 	time: 0.381 	done: 1
+well
+epoch: 0 	ep: 2 	ep_rew: 9.681789466214326 	time: 0.397 	done: 1
+well
+epoch: 0 	ep: 4 	ep_rew: 9.125995805432165 	time: 0.437 	done: 1
+well
+epoch: 0 	ep: 5 	ep_rew: 9.19193312437805 	time: 0.53 	done: 1
+well
+epoch: 0 	ep: 6 	ep_rew: 9.732445243667096 	time: 0.442 	done: 1
+well
+epoch: 0 	ep: 7 	ep_rew: 9.556234763743864 	time: 0.383 	done: 1
+well
+epoch: 0 	ep: 8 	ep_rew: 8.959623526164066 	time: 0.655 	done: 1
+well
+epoch: 0 	ep: 12 	ep_rew: 9.675283642533124 	time: 0.536 	done: 1
+well
+epoch: 0 	ep: 13 	ep_rew: 9.24738979463435 	time: 0.508 	done: 1
+well
+epoch: 0 	ep: 14 	ep_rew: 9.314361972612677 	time: 0.511 	done: 1
+well
+epoch: 0 	ep: 15 	ep_rew: 9.656941196031301 	time: 0.556 	done: 1

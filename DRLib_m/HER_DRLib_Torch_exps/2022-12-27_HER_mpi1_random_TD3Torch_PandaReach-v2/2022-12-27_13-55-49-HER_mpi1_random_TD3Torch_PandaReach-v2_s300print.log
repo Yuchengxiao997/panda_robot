@@ -1,0 +1,363 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-27_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-27_13-55-49-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |            -7.6 |
+|         EpRealRet |            -7.6 |
+|         TestEpRet |               0 |
+|         AverageQ1 |            -1.8 |
+|             StdQ1 |            2.29 |
+|             MaxQ1 |            2.98 |
+|             MinQ1 |             -18 |
+|                Q2 |            -1.8 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |              74 |
+---------------------------------------
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |            -1.4 |
+|         EpRealRet |            -1.4 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.713 |
+|             StdQ1 |            1.36 |
+|             MaxQ1 |            1.85 |
+|             MinQ1 |           -25.4 |
+|                Q2 |          -0.713 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |             136 |
+---------------------------------------
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |              -2 |
+|         EpRealRet |              -2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.372 |
+|             StdQ1 |           0.779 |
+|             MaxQ1 |            1.51 |
+|             MinQ1 |           -18.2 |
+|                Q2 |          -0.372 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             205 |
+---------------------------------------
+bad
+---------------------------------------
+|             Epoch |               3 |
+|             EpRet |            -1.2 |
+|         EpRealRet |            -1.2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.372 |
+|             StdQ1 |           0.682 |
+|             MaxQ1 |            1.51 |
+|             MinQ1 |           -17.5 |
+|                Q2 |          -0.372 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           8e+05 |
+|         TotalTime |             273 |
+---------------------------------------
+bad
+bad
+---------------------------------------
+|             Epoch |               4 |
+|             EpRet |            -1.2 |
+|         EpRealRet |            -1.2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.358 |
+|             StdQ1 |           0.596 |
+|             MaxQ1 |           0.848 |
+|             MinQ1 |           -17.3 |
+|                Q2 |          -0.358 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           1e+06 |
+|         TotalTime |             342 |
+---------------------------------------
+bad
+---------------------------------------
+|             Epoch |               5 |
+|             EpRet |            -0.8 |
+|         EpRealRet |            -0.8 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.293 |
+|             StdQ1 |           0.562 |
+|             MaxQ1 |           0.697 |
+|             MinQ1 |             -19 |
+|                Q2 |          -0.293 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.2e+06 |
+|         TotalTime |             414 |
+---------------------------------------
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |               6 |
+|             EpRet |            -1.8 |
+|         EpRealRet |            -1.8 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.202 |
+|             StdQ1 |           0.541 |
+|             MaxQ1 |           0.858 |
+|             MinQ1 |           -18.1 |
+|                Q2 |          -0.202 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.4e+06 |
+|         TotalTime |             488 |
+---------------------------------------
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |               7 |
+|             EpRet |            -1.8 |
+|         EpRealRet |            -1.8 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.136 |
+|             StdQ1 |           0.536 |
+|             MaxQ1 |            1.17 |
+|             MinQ1 |             -21 |
+|                Q2 |          -0.136 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.6e+06 |
+|         TotalTime |             564 |
+---------------------------------------
+bad
+bad
+---------------------------------------
+|             Epoch |               8 |
+|             EpRet |            -3.6 |
+|         EpRealRet |            -3.6 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.119 |
+|             StdQ1 |           0.558 |
+|             MaxQ1 |           0.871 |
+|             MinQ1 |           -18.5 |
+|                Q2 |          -0.119 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.81e+06 |
+|         TotalTime |             641 |
+---------------------------------------
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |               9 |
+|             EpRet |            -3.8 |
+|         EpRealRet |            -3.8 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.105 |
+|             StdQ1 |           0.542 |
+|             MaxQ1 |            1.06 |
+|             MinQ1 |           -22.7 |
+|                Q2 |          -0.105 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.01e+06 |
+|         TotalTime |             716 |
+---------------------------------------
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |              10 |
+|             EpRet |            -5.2 |
+|         EpRealRet |            -5.2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.123 |
+|             StdQ1 |           0.543 |
+|             MaxQ1 |            1.15 |
+|             MinQ1 |           -24.4 |
+|                Q2 |          -0.123 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.21e+06 |
+|         TotalTime |             793 |
+---------------------------------------
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |              11 |
+|             EpRet |            -7.2 |
+|         EpRealRet |            -7.2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |         -0.0989 |
+|             StdQ1 |           0.591 |
+|             MaxQ1 |            1.01 |
+|             MinQ1 |           -22.6 |
+|                Q2 |         -0.0989 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.41e+06 |
+|         TotalTime |             869 |
+---------------------------------------
+bad
+bad
+---------------------------------------
+|             Epoch |              12 |
+|             EpRet |            -2.8 |
+|         EpRealRet |            -2.8 |
+|         TestEpRet |               0 |
+|         AverageQ1 |         -0.0716 |
+|             StdQ1 |           0.607 |
+|             MaxQ1 |            1.06 |
+|             MinQ1 |           -23.2 |
+|                Q2 |         -0.0716 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.61e+06 |
+|         TotalTime |             950 |
+---------------------------------------
+bad
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |              13 |
+|             EpRet |            -6.6 |
+|         EpRealRet |            -6.6 |
+|         TestEpRet |               0 |
+|         AverageQ1 |         -0.0774 |
+|             StdQ1 |           0.642 |
+|             MaxQ1 |            1.08 |
+|             MinQ1 |           -22.5 |
+|                Q2 |         -0.0774 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.81e+06 |
+|         TotalTime |        1.03e+03 |
+---------------------------------------
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |              14 |
+|             EpRet |            -3.2 |
+|         EpRealRet |            -3.2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |         -0.0701 |
+|             StdQ1 |           0.655 |
+|             MaxQ1 |               1 |
+|             MinQ1 |           -22.2 |
+|                Q2 |         -0.0702 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.01e+06 |
+|         TotalTime |        1.11e+03 |
+---------------------------------------
+---------------------------------------
+|             Epoch |              15 |
+|             EpRet |              -2 |
+|         EpRealRet |              -2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |         -0.0593 |
+|             StdQ1 |           0.645 |
+|             MaxQ1 |            1.06 |
+|             MinQ1 |           -25.1 |
+|                Q2 |         -0.0593 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.21e+06 |
+|         TotalTime |        1.19e+03 |
+---------------------------------------
+bad
+bad
+---------------------------------------
+|             Epoch |              16 |
+|             EpRet |            -4.4 |
+|         EpRealRet |            -4.4 |
+|         TestEpRet |               0 |
+|         AverageQ1 |         -0.0595 |
+|             StdQ1 |           0.639 |
+|             MaxQ1 |            1.23 |
+|             MinQ1 |           -24.1 |
+|                Q2 |         -0.0595 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.41e+06 |
+|         TotalTime |        1.27e+03 |
+---------------------------------------
+bad
+bad
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |              17 |
+|             EpRet |            -4.8 |
+|         EpRealRet |            -4.8 |
+|         TestEpRet |               0 |
+|         AverageQ1 |         -0.0661 |
+|             StdQ1 |           0.665 |
+|             MaxQ1 |           0.807 |
+|             MinQ1 |           -24.1 |
+|                Q2 |         -0.0661 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.61e+06 |
+|         TotalTime |        1.35e+03 |
+---------------------------------------
+bad
+bad
+bad
+---------------------------------------
+|             Epoch |              18 |
+|             EpRet |            -4.6 |
+|         EpRealRet |            -4.6 |
+|         TestEpRet |               0 |
+|         AverageQ1 |          -0.067 |
+|             StdQ1 |           0.672 |
+|             MaxQ1 |           0.899 |
+|             MinQ1 |           -23.2 |
+|                Q2 |          -0.067 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.82e+06 |
+|         TotalTime |        1.43e+03 |
+---------------------------------------

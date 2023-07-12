@@ -1,0 +1,446 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-27_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-27_20-17-26-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+now we look -0.44857436556192315
+bad
+now we look -1.0527290330727328
+now we look -0.7864615412899912
+now we look -0.7961270023123341
+now we look -1.043964980796231
+now we look -0.5811206087413333
+now we look -0.9870364248413591
+now we look -0.5101409076673927
+bad
+now we look -0.5851720270462271
+bad
+now we look -0.5326246023073081
+bad
+now we look -0.42956366424300574
+bad
+now we look -0.5709385255053502
+now we look -0.7582227078158208
+now we look -0.8109859926914802
+now we look -0.954244685736952
+now we look -0.9768593933850206
+now we look -0.6501131702334403
+now we look -0.4871041743066012
+now we look -0.5800112037670809
+now we look -0.43646647931177307
+now we look -0.5622539971129211
+now we look -0.9874226500319214
+now we look -0.6250240479896253
+now we look -0.8754781559666227
+now we look -0.41238946894481665
+bad
+now we look -0.5695711957331955
+now we look -0.6305344540311754
+bad
+now we look -0.656197828739097
+now we look -0.8584517848508577
+now we look -0.6876489387663342
+now we look -0.5449347362297696
+bad
+now we look -0.9139092807386139
+now we look -0.6055550061682943
+now we look -0.6355111345077535
+now we look -0.545399067938301
+now we look -0.7505453003917276
+now we look -0.4954220285251966
+now we look -0.5788956814107442
+now we look -0.593448551985932
+bad
+now we look -0.6875037199076651
+now we look -0.5561690109978891
+now we look -0.7546714352280044
+now we look -0.46535834203253246
+bad
+now we look -0.6305755238616004
+now we look -0.5232561209433297
+bad
+now we look -0.7134996314794938
+now we look -0.5933952702011784
+now we look -0.6579008289609258
+now we look -0.7162129653285227
+now we look -0.8534362037031776
+now we look -0.7006635557212
+now we look -0.5627216921101987
+now we look -0.5307383200042707
+bad
+now we look -0.7983474079228714
+now we look -0.5017143827559882
+now we look -0.7685376461372503
+now we look -0.43419076212319535
+now we look -0.6026965605959091
+now we look -0.6315007662721205
+now we look -0.7049855246671856
+now we look -0.8985397610026984
+now we look -0.5234553169412881
+now we look -0.4909016083736591
+bad
+now we look -0.8764371302856013
+now we look -0.5633491508946723
+now we look -0.7373883057511749
+now we look -0.4876929246697912
+now we look -0.8616739563557778
+now we look -0.512663156609255
+now we look -0.8213518785067835
+now we look -0.4917593786133552
+now we look -0.6207570635755495
+now we look -0.7982906203068638
+right
+epoch: 0 	ep: 42 	ep_rew: -2.300912621746601 	time: 2.282 	done: 1
+now we look -0.764372689486925
+now we look -0.49133286357667455
+now we look -0.7084484366847967
+now we look -0.47936502546862236
+now we look -0.8455430863527945
+right
+epoch: 0 	ep: 45 	ep_rew: 0.1044786882570179 	time: 2.282 	done: 1
+now we look -0.9470455833280735
+now we look -0.9721990053716776
+now we look -0.48683257313856754
+bad
+now we look -1.0450601752241642
+now we look -0.6929615588608485
+now we look -0.57371771109546
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+now we look -0.8981033006217685
+now we look -0.516412869715253
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |           -9.93 |
+|         EpRealRet |           -9.93 |
+|         TestEpRet |          -0.898 |
+|         AverageQ1 |           -22.7 |
+|             StdQ1 |            9.01 |
+|             MaxQ1 |           0.267 |
+|             MinQ1 |           -48.1 |
+|                Q2 |           -22.7 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |              35 |
+---------------------------------------
+now we look -0.6658897903618963
+now we look -0.6593214954248956
+now we look -0.6261927746503468
+right
+now we look -0.5886279801009411
+bad
+epoch: 1 	ep: 1 	ep_rew: -7.917058721034878 	time: 2.316 	done: 1
+now we look -0.6269237034893964
+now we look -0.7230198201843142
+now we look -0.567744038413634
+now we look -0.8173695115570143
+now we look -0.6639397129879834
+now we look -0.7547820765615424
+now we look -0.7539063707552653
+now we look -0.7922815932492716
+now we look -0.45379575405613126
+now we look -0.8649560463988322
+now we look -0.506214876888321
+now we look -0.5670573043051679
+bad
+now we look -0.8539427233333803
+now we look -0.49357976520472663
+now we look -0.9361297493875783
+now we look -0.5998012993756001
+now we look -0.8549062894898111
+now we look -0.7028013004770988
+now we look -0.7469717104850429
+now we look -0.7664228395383916
+now we look -0.7321922363598129
+now we look -0.6111401676731901
+now we look -0.7659082760988394
+now we look -0.5286902062282404
+now we look -0.9631120523483409
+now we look -0.5078139181537572
+now we look -0.40432944367034857
+bad
+now we look -1.0204099701405274
+now we look -1.0180434006950616
+now we look -0.28706212600606656
+now we look -0.9338348823709961
+now we look -0.2916116634988327
+now we look -0.9082499284771366
+now we look -0.327287744509449
+now we look -0.9389748890948839
+now we look -0.8072044820658704
+now we look -0.40311449928477633
+now we look -0.6202742971200316
+now we look -0.5646261543617084
+now we look -0.975521861695632
+now we look -0.628077163687041
+now we look -0.6815807629053429
+now we look -0.4806904923651687
+bad
+now we look -0.7911357110648828
+now we look -1.0114989763046773
+now we look -0.45517001925053635
+now we look -0.9641657912776105
+now we look -0.5610901713010272
+now we look -0.6545258277538897
+bad
+now we look -0.6065139207220459
+now we look -0.3608753718056607
+now we look -0.49829271116553986
+now we look -0.7706546643495302
+now we look -0.5958742400716174
+now we look -0.7518285624340691
+now we look -0.4088223129754082
+now we look -0.7744338104456671
+now we look -0.87790675271053
+now we look -0.8264842205412537
+now we look -0.7575440048643658
+now we look -0.3967812174772698
+now we look -0.8191392594303729
+right
+epoch: 1 	ep: 38 	ep_rew: 0.41348675211501984 	time: 2.296 	done: 1
+now we look -0.8498497123823918
+now we look -0.88821707375387
+now we look -0.422750521171612
+bad
+now we look -0.7646699037271906
+now we look -0.5462409801582278
+right
+epoch: 1 	ep: 41 	ep_rew: 2.7936594788121045 	time: 2.194 	done: 1
+now we look -0.9079562687731016
+now we look -0.6404056430867234
+now we look -0.757825185881334
+now we look -0.3100432603186027
+now we look -0.7196069532434335
+now we look -0.5240109369571362
+now we look -0.6088617628856525
+bad
+now we look -0.6400972529119978
+bad
+now we look -0.8775735858204136
+now we look -0.3725633964623156
+right
+epoch: 1 	ep: 47 	ep_rew: 5.254450632543182 	time: 2.203 	done: 1
+now we look -0.7551414209253755
+now we look -0.4786033506282733
+now we look -0.8287147183184898
+now we look -0.9936713224506836
+right
+epoch: 1 	ep: 49 	ep_rew: -6.125862190425422 	time: 2.179 	done: 1
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+now we look -0.8492321364660139
+now we look -0.40792376740474906
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |           -7.34 |
+|         EpRealRet |           -7.34 |
+|         TestEpRet |          -0.849 |
+|         AverageQ1 |           -21.2 |
+|             StdQ1 |            8.47 |
+|             MaxQ1 |            7.14 |
+|             MinQ1 |           -53.6 |
+|                Q2 |           -21.2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |            75.5 |
+---------------------------------------
+now we look -0.9315274380739614
+now we look -0.5753856233605251
+now we look -0.755745332973987
+now we look -0.5097947203964039
+bad
+now we look -0.5149617985767476
+now we look -0.5357813357747273
+now we look -0.8352473452013087
+now we look -0.5476364265378099
+bad
+now we look -0.6952272348787659
+now we look -0.3998995958710473
+now we look -0.9080302522271898
+now we look -0.38669819853948223
+now we look -0.8384631323175874
+now we look -0.5502666548111346
+now we look -0.7300625032547657
+now we look -0.5582850380245058
+now we look -0.774372182344788
+now we look -0.36939776287080806
+now we look -0.7611548734111743
+now we look -0.6071636420269014
+now we look -0.9178725071843031
+now we look -0.4536224714108626
+right
+epoch: 2 	ep: 12 	ep_rew: 4.660862684997694 	time: 2.181 	done: 1
+now we look -1.048426203824141
+now we look -0.960383519637683
+now we look -0.5279894210129774
+now we look -0.6083710642600199
+now we look -0.9177443300733392
+now we look -0.8229415318707689
+now we look -0.5584596659004667
+now we look -0.7685607190939684
+now we look -0.6028661762190077
+now we look -0.7314636637454098
+now we look -0.5264747178640832
+now we look -0.5914593002556378
+now we look -0.4292829564395306
+now we look -0.9019228257552598
+now we look -0.5359562464457529
+now we look -0.828790927463459
+now we look -0.60345024193824
+now we look -1.051380871094699
+now we look -0.956679121637994
+now we look -0.5129158484794477
+now we look -0.8230717468918158
+now we look -0.4738002843108594
+now we look -0.7959097589765495
+now we look -0.5018386890211847
+now we look -0.6781504593723872
+now we look -0.667960820277594
+now we look -0.6775227597553348
+now we look -0.5729839808240701
+now we look -0.8275404052657787
+now we look -0.7583522409841565
+now we look -0.5681130998892288
+now we look -0.5519022778281086
+now we look -0.6669363070074916
+bad
+now we look -0.967202739606716
+now we look -0.5456490536027361
+now we look -0.7714003133045075
+now we look -0.5478844620132556
+now we look -1.0219699048028013
+now we look -0.9010692734035471
+now we look -0.6117571289475107
+now we look -0.9176436263893629
+now we look -0.8616326137685859
+now we look -0.9303448173253825
+now we look -0.5913028737853494
+now we look -0.7855385066105763
+now we look -0.5781957088050002
+now we look -0.5879551291889681
+now we look -0.7505144809729203
+now we look -0.8654998880149466
+now we look -0.9684583941246294
+now we look -0.5723166743293867
+now we look -0.8937549621131934
+now we look -0.7775325195058543
+now we look -1.051380871094699
+now we look -0.850092736748501
+now we look -0.5652824669084853
+now we look -0.5524179507307448
+now we look -0.705450370706637
+now we look -1.009414028566533
+now we look -0.7243769473756659
+now we look -0.7562234480906711
+now we look -0.7892684698689437
+now we look -0.6739327983891796
+now we look -0.9123349256309272
+now we look -0.8012900721422667
+now we look -1.0421148209809714
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+now we look -0.9456911459733128
+now we look -0.5973436647852974
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |           -8.14 |
+|         EpRealRet |           -8.14 |
+|         TestEpRet |          -0.946 |
+|         AverageQ1 |           -32.3 |
+|             StdQ1 |             9.8 |
+|             MaxQ1 |            5.41 |
+|             MinQ1 |           -60.8 |
+|                Q2 |           -32.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             104 |
+---------------------------------------
+now we look -1.028248981729505
+now we look -1.0358242217333997
+now we look -0.9770329029659802
+now we look -1.0707493894807445
+now we look -0.8419531706934805
+right
+epoch: 3 	ep: 4 	ep_rew: 0.14649202558715047 	time: 2.219 	done: 1
+now we look -0.41583879955979475
+bad
+now we look -0.5168731177616208
+now we look -1.0649545083874812
+now we look -0.6342580341286763
+now we look -1.0536675646270546
+now we look -0.7921612058967255
+now we look -0.6942708361552716
+now we look -0.9641261133912012
+now we look -0.9036451375037886
+now we look -0.6112610733278666
+now we look -0.8844798739008543
+now we look -0.7359517924407025
+now we look -0.6446877284394025
+now we look -0.6499004182255488
+now we look -1.0665566291068893
+now we look -0.971221281567065
+now we look -0.43930426809112044
+now we look -1.0393870849889932
+now we look -0.9900148360898103
+now we look -1.0817916097082658
+now we look -0.7748592158143386
+now we look -1.0865004620740888
+now we look -0.4275700732111119
+bad
+now we look -0.8488463581340483

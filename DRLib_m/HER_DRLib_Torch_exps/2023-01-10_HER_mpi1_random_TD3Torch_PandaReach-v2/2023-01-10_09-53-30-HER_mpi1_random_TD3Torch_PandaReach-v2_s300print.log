@@ -1,0 +1,3068 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-01-10_HER_mpi1_random_TD3Torch_PandaReach-v2/2023-01-10_09-53-30-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |             -38 |
+|         EpRealRet |             -38 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -47.8 |
+|             StdQ1 |             7.4 |
+|             MaxQ1 |         0.00756 |
+|             MinQ1 |           -51.9 |
+|                Q2 |           -47.7 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |            33.5 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |           -36.5 |
+|         EpRealRet |           -36.5 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.158 |
+|             MaxQ1 |           -48.6 |
+|             MinQ1 |           -50.9 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |            69.5 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 0.8762828705787964
+epoch: 2 	ep: 48 	ep_rew: 0.8762828705787964 	time: 0.265 	done: 1
+something error happend
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+right 4.7055507276146145
+change the step,past step is  0
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |           -33.4 |
+|         EpRealRet |           -33.4 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -49.9 |
+|             StdQ1 |           0.436 |
+|             MaxQ1 |           -44.8 |
+|             MinQ1 |           -52.4 |
+|                Q2 |           -49.9 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             107 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 3.7198778364771954
+epoch: 3 	ep: 18 	ep_rew: -0.9656952365230476 	time: 0.29 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               3 |
+|             EpRet |           -40.9 |
+|         EpRealRet |           -40.9 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -48 |
+|             StdQ1 |            4.77 |
+|             MaxQ1 |           0.541 |
+|             MinQ1 |           -61.5 |
+|                Q2 |             -48 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           8e+05 |
+|         TotalTime |             145 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.5546483093746204
+epoch: 4 	ep: 10 	ep_rew: -45.08370210125933 	time: 0.286 	done: 1
+right 7.435080853195398
+something error happend
+epoch: 4 	ep: 12 	ep_rew: -17.43073874813516 	time: 0.321 	done: 1
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               4 |
+|             EpRet |           -43.2 |
+|         EpRealRet |           -43.2 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -44.7 |
+|             StdQ1 |            7.69 |
+|             MaxQ1 |           0.864 |
+|             MinQ1 |           -63.4 |
+|                Q2 |           -44.7 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           1e+06 |
+|         TotalTime |             182 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 3.155619322564882
+epoch: 5 	ep: 27 	ep_rew: -14.786916984253633 	time: 0.434 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+right 1.4005145381199071
+something error happend
+epoch: 5 	ep: 36 	ep_rew: -9.648173159628906 	time: 0.403 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+right 2.112639887714626
+---------------------------------------
+|             Epoch |               5 |
+|             EpRet |           -39.7 |
+|         EpRealRet |           -39.7 |
+|         TestEpRet |            2.11 |
+|         AverageQ1 |           -48.1 |
+|             StdQ1 |            5.25 |
+|             MaxQ1 |          -0.738 |
+|             MinQ1 |           -63.9 |
+|                Q2 |           -48.1 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.2e+06 |
+|         TotalTime |             221 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+right 1.5560743578582663
+---------------------------------------
+|             Epoch |               6 |
+|             EpRet |             -39 |
+|         EpRealRet |             -39 |
+|         TestEpRet |            1.56 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            4.25 |
+|             MaxQ1 |          -0.782 |
+|             MinQ1 |           -70.3 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.4e+06 |
+|         TotalTime |             260 |
+---------------------------------------
+something error happend
+right 3.403330864302797
+something error happend
+epoch: 7 	ep: 3 	ep_rew: -58.12048995150514 	time: 0.334 	done: 1
+something error happend
+right 7.163373863413918
+epoch: 7 	ep: 7 	ep_rew: -19.795969053204523 	time: 0.298 	done: 1
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+right 1.4445347852427162
+something error happend
+---------------------------------------
+|             Epoch |               7 |
+|             EpRet |           -41.7 |
+|         EpRealRet |           -41.7 |
+|         TestEpRet |            1.44 |
+|         AverageQ1 |           -48.9 |
+|             StdQ1 |             4.5 |
+|             MaxQ1 |          -0.383 |
+|             MinQ1 |           -58.6 |
+|                Q2 |           -48.9 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.6e+06 |
+|         TotalTime |             300 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+bad
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+right 1.5509921271616527
+something error happend
+---------------------------------------
+|             Epoch |               8 |
+|             EpRet |           -41.9 |
+|         EpRealRet |           -41.9 |
+|         TestEpRet |            1.55 |
+|         AverageQ1 |           -49.1 |
+|             StdQ1 |            4.37 |
+|             MaxQ1 |          -0.345 |
+|             MinQ1 |             -73 |
+|                Q2 |           -49.1 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.8e+06 |
+|         TotalTime |             340 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+right 1.534607029087228
+---------------------------------------
+|             Epoch |               9 |
+|             EpRet |             -40 |
+|         EpRealRet |             -40 |
+|         TestEpRet |            1.53 |
+|         AverageQ1 |           -49.2 |
+|             StdQ1 |            4.11 |
+|             MaxQ1 |           -1.24 |
+|             MinQ1 |           -61.9 |
+|                Q2 |           -49.2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.01e+06 |
+|         TotalTime |             379 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+right 1.5886738223908115
+---------------------------------------
+|             Epoch |              10 |
+|             EpRet |           -40.6 |
+|         EpRealRet |           -40.6 |
+|         TestEpRet |            1.59 |
+|         AverageQ1 |           -49.3 |
+|             StdQ1 |            3.87 |
+|             MaxQ1 |           -1.54 |
+|             MinQ1 |           -69.4 |
+|                Q2 |           -49.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.21e+06 |
+|         TotalTime |             420 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 2.3372331184845887
+something error happend
+epoch: 11 	ep: 31 	ep_rew: -36.415160555266425 	time: 0.348 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+right 1.5744571375234067
+---------------------------------------
+|             Epoch |              11 |
+|             EpRet |             -42 |
+|         EpRealRet |             -42 |
+|         TestEpRet |            1.57 |
+|         AverageQ1 |           -49.3 |
+|             StdQ1 |            3.89 |
+|             MaxQ1 |           -0.96 |
+|             MinQ1 |           -69.9 |
+|                Q2 |           -49.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.41e+06 |
+|         TotalTime |             460 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+right 1.8980085366928385
+something error happend
+---------------------------------------
+|             Epoch |              12 |
+|             EpRet |           -39.1 |
+|         EpRealRet |           -39.1 |
+|         TestEpRet |             1.9 |
+|         AverageQ1 |           -49.3 |
+|             StdQ1 |             3.9 |
+|             MaxQ1 |           0.441 |
+|             MinQ1 |           -74.8 |
+|                Q2 |           -49.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.61e+06 |
+|         TotalTime |             499 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 1.422944550523349
+something error happend
+epoch: 13 	ep: 43 	ep_rew: -12.10461226767446 	time: 0.325 	done: 1
+something error happend
+something error happend
+something error happend
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+right 1.682974874810423
+---------------------------------------
+|             Epoch |              13 |
+|             EpRet |           -40.3 |
+|         EpRealRet |           -40.3 |
+|         TestEpRet |            1.68 |
+|         AverageQ1 |           -49.4 |
+|             StdQ1 |            3.88 |
+|             MaxQ1 |            1.35 |
+|             MinQ1 |           -61.2 |
+|                Q2 |           -49.4 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.81e+06 |
+|         TotalTime |             539 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 1.9876037180961212
+something error happend
+epoch: 14 	ep: 20 	ep_rew: -38.14141733207701 	time: 0.421 	done: 1
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+right 1.6499500822034765
+something error happend
+---------------------------------------
+|             Epoch |              14 |
+|             EpRet |           -44.9 |
+|         EpRealRet |           -44.9 |
+|         TestEpRet |            1.65 |
+|         AverageQ1 |           -49.3 |
+|             StdQ1 |            4.02 |
+|             MaxQ1 |           0.929 |
+|             MinQ1 |           -65.9 |
+|                Q2 |           -49.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.01e+06 |
+|         TotalTime |             580 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+right 1.7444597995038613
+something error happend
+---------------------------------------
+|             Epoch |              15 |
+|             EpRet |           -40.8 |
+|         EpRealRet |           -40.8 |
+|         TestEpRet |            1.74 |
+|         AverageQ1 |           -49.4 |
+|             StdQ1 |            3.97 |
+|             MaxQ1 |           0.468 |
+|             MinQ1 |           -67.1 |
+|                Q2 |           -49.4 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.21e+06 |
+|         TotalTime |             620 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 4.64148466579897
+epoch: 16 	ep: 17 	ep_rew: -4.251963228184049 	time: 0.407 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+right 1.8345332463722883
+---------------------------------------
+|             Epoch |              16 |
+|             EpRet |           -41.8 |
+|         EpRealRet |           -41.8 |
+|         TestEpRet |            1.83 |
+|         AverageQ1 |           -49.4 |
+|             StdQ1 |            4.02 |
+|             MaxQ1 |            1.58 |
+|             MinQ1 |           -64.3 |
+|                Q2 |           -49.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.41e+06 |
+|         TotalTime |             659 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+right 2.916748049291642
+something error happend
+epoch: 17 	ep: 30 	ep_rew: -35.65889408301748 	time: 0.391 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 1.1656378331308144
+something error happend
+bad
+epoch: 17 	ep: 42 	ep_rew: -44.692649525187846 	time: 0.414 	done: 1
+something error happend
+bad
+something error happend
+something error happend
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+right 1.8964759076994078
+---------------------------------------
+|             Epoch |              17 |
+|             EpRet |           -48.6 |
+|         EpRealRet |           -48.6 |
+|         TestEpRet |             1.9 |
+|         AverageQ1 |           -49.3 |
+|             StdQ1 |            4.14 |
+|             MaxQ1 |           0.363 |
+|             MinQ1 |           -73.7 |
+|                Q2 |           -49.3 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.61e+06 |
+|         TotalTime |             702 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 6.1762860926886685
+epoch: 18 	ep: 21 	ep_rew: -6.036194526701852 	time: 0.367 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+right 2.009413321217977
+---------------------------------------
+|             Epoch |              18 |
+|             EpRet |           -41.9 |
+|         EpRealRet |           -41.9 |
+|         TestEpRet |            2.01 |
+|         AverageQ1 |           -49.2 |
+|             StdQ1 |             4.4 |
+|             MaxQ1 |            1.57 |
+|             MinQ1 |           -63.3 |
+|                Q2 |           -49.2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.81e+06 |
+|         TotalTime |             742 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+right 1.9570142188134358
+---------------------------------------
+|             Epoch |              19 |
+|             EpRet |           -39.8 |
+|         EpRealRet |           -39.8 |
+|         TestEpRet |            1.96 |
+|         AverageQ1 |           -49.2 |
+|             StdQ1 |            4.59 |
+|             MaxQ1 |            1.81 |
+|             MinQ1 |           -65.2 |
+|                Q2 |           -49.2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.02e+06 |
+|         TotalTime |             781 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+right 1.9416775788734117
+---------------------------------------
+|             Epoch |              20 |
+|             EpRet |           -44.3 |
+|         EpRealRet |           -44.3 |
+|         TestEpRet |            1.94 |
+|         AverageQ1 |           -49.2 |
+|             StdQ1 |            4.43 |
+|             MaxQ1 |            1.27 |
+|             MinQ1 |           -65.9 |
+|                Q2 |           -49.2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.22e+06 |
+|         TotalTime |             821 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+right 1.260060974014106
+something error happend
+epoch: 21 	ep: 11 	ep_rew: -64.81467507081321 	time: 0.305 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+right 1.8065203201675732
+---------------------------------------
+|             Epoch |              21 |
+|             EpRet |           -49.3 |
+|         EpRealRet |           -49.3 |
+|         TestEpRet |            1.81 |
+|         AverageQ1 |           -49.2 |
+|             StdQ1 |            4.49 |
+|             MaxQ1 |            2.52 |
+|             MinQ1 |           -62.1 |
+|                Q2 |           -49.2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.42e+06 |
+|         TotalTime |             863 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+right 5.053415403351068
+epoch: 22 	ep: 4 	ep_rew: -23.764603771117994 	time: 0.289 	done: 1
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 3.1006137075836184
+something error happend
+epoch: 22 	ep: 30 	ep_rew: -39.207534511352264 	time: 0.342 	done: 1
+something error happend
+bad
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+bad
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+right 1.7806823490578854
+---------------------------------------
+|             Epoch |              22 |
+|             EpRet |           -38.2 |
+|         EpRealRet |           -38.2 |
+|         TestEpRet |            1.78 |
+|         AverageQ1 |           -49.2 |
+|             StdQ1 |            4.67 |
+|             MaxQ1 |            3.62 |
+|             MinQ1 |             -63 |
+|                Q2 |           -49.2 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.62e+06 |
+|         TotalTime |             903 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 5.366358743733298
+epoch: 23 	ep: 10 	ep_rew: -22.919967203817237 	time: 0.373 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 1.2102948225956442
+epoch: 23 	ep: 45 	ep_rew: -43.84651872835456 	time: 0.496 	done: 1
+something error happend
+bad
+something error happend
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+right 1.93224494370787
+something error happend
+---------------------------------------
+|             Epoch |              23 |
+|             EpRet |           -46.5 |
+|         EpRealRet |           -46.5 |
+|         TestEpRet |            1.93 |
+|         AverageQ1 |           -49.1 |
+|             StdQ1 |            4.76 |
+|             MaxQ1 |            4.15 |
+|             MinQ1 |           -64.7 |
+|                Q2 |           -49.1 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.82e+06 |
+|         TotalTime |             943 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 2.0388117145684177
+epoch: 24 	ep: 19 	ep_rew: -29.14515652572085 	time: 0.319 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 3.980657883918618
+epoch: 24 	ep: 37 	ep_rew: -27.524143466227308 	time: 0.374 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+right 1.7587066186149407
+---------------------------------------
+|             Epoch |              24 |
+|             EpRet |           -43.2 |
+|         EpRealRet |           -43.2 |
+|         TestEpRet |            1.76 |
+|         AverageQ1 |           -49.1 |
+|             StdQ1 |            4.83 |
+|             MaxQ1 |            4.05 |
+|             MinQ1 |           -63.4 |
+|                Q2 |           -49.1 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.02e+06 |
+|         TotalTime |             985 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+right 1.0003400129221944
+epoch: 25 	ep: 3 	ep_rew: -45.56285892482823 	time: 0.424 	done: 1
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right -0.2840253140086002
+epoch: 25 	ep: 27 	ep_rew: -49.19985935868876 	time: 0.458 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right -0.48001870869430086
+something error happend
+epoch: 25 	ep: 47 	ep_rew: -57.32573727270149 	time: 0.435 	done: 1
+something error happend
+something error happend
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+right 1.9796544180209814
+---------------------------------------
+|             Epoch |              25 |
+|             EpRet |           -39.3 |
+|         EpRealRet |           -39.3 |
+|         TestEpRet |            1.98 |
+|         AverageQ1 |           -49.1 |
+|             StdQ1 |               5 |
+|             MaxQ1 |            4.07 |
+|             MinQ1 |           -73.6 |
+|                Q2 |           -49.1 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.22e+06 |
+|         TotalTime |        1.03e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+right 1.9160696436772344
+---------------------------------------
+|             Epoch |              26 |
+|             EpRet |             -42 |
+|         EpRealRet |             -42 |
+|         TestEpRet |            1.92 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.16 |
+|             MaxQ1 |            6.42 |
+|             MinQ1 |           -70.7 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.42e+06 |
+|         TotalTime |        1.07e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+right 2.7936170836698295
+something error happend
+bad
+epoch: 27 	ep: 32 	ep_rew: -41.27339428286864 	time: 0.405 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+right 1.7225208566118724
+---------------------------------------
+|             Epoch |              27 |
+|             EpRet |           -37.4 |
+|         EpRealRet |           -37.4 |
+|         TestEpRet |            1.72 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.09 |
+|             MaxQ1 |            7.04 |
+|             MinQ1 |           -61.5 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.62e+06 |
+|         TotalTime |        1.11e+03 |
+---------------------------------------
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+right 0.3566987257906753
+something error happend
+epoch: 28 	ep: 28 	ep_rew: -24.82077950162233 	time: 0.382 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+right 1.7643359590715182
+---------------------------------------
+|             Epoch |              28 |
+|             EpRet |           -42.4 |
+|         EpRealRet |           -42.4 |
+|         TestEpRet |            1.76 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |             5.2 |
+|             MaxQ1 |            7.26 |
+|             MinQ1 |             -61 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.82e+06 |
+|         TotalTime |        1.15e+03 |
+---------------------------------------
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 2.8677146926004173
+bad
+epoch: 29 	ep: 15 	ep_rew: -27.034304261230595 	time: 0.378 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+right 1.8235337389067485
+---------------------------------------
+|             Epoch |              29 |
+|             EpRet |           -46.6 |
+|         EpRealRet |           -46.6 |
+|         TestEpRet |            1.82 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.18 |
+|             MaxQ1 |            7.64 |
+|             MinQ1 |           -62.6 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.03e+06 |
+|         TotalTime |        1.19e+03 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+right 1.859543076727375
+---------------------------------------
+|             Epoch |              30 |
+|             EpRet |           -41.6 |
+|         EpRealRet |           -41.6 |
+|         TestEpRet |            1.86 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.23 |
+|             MaxQ1 |            8.96 |
+|             MinQ1 |           -62.4 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.23e+06 |
+|         TotalTime |        1.23e+03 |
+---------------------------------------
+right 3.3861619152006366
+epoch: 31 	ep: 0 	ep_rew: -53.89025240549508 	time: 0.277 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+bad
+right 7.970531331660505
+epoch: 31 	ep: 7 	ep_rew: -5.468591153869735 	time: 0.437 	done: 1
+something error happend
+something error happend
+right 3.0629846914057115
+something error happend
+epoch: 31 	ep: 10 	ep_rew: -43.28467867581984 	time: 0.399 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+right 1.9804172850498851
+---------------------------------------
+|             Epoch |              31 |
+|             EpRet |           -41.7 |
+|         EpRealRet |           -41.7 |
+|         TestEpRet |            1.98 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.33 |
+|             MaxQ1 |            8.71 |
+|             MinQ1 |           -61.8 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.43e+06 |
+|         TotalTime |        1.27e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 3.8643898352997406
+something error happend
+epoch: 32 	ep: 42 	ep_rew: -52.0736890955227 	time: 0.423 	done: 1
+bad
+something error happend
+something error happend
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+right 1.818420270008021
+---------------------------------------
+|             Epoch |              32 |
+|             EpRet |           -43.5 |
+|         EpRealRet |           -43.5 |
+|         TestEpRet |            1.82 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |             5.3 |
+|             MaxQ1 |            10.4 |
+|             MinQ1 |             -65 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.63e+06 |
+|         TotalTime |        1.31e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+right 2.9214893603375414
+epoch: 33 	ep: 1 	ep_rew: -43.2340760036544 	time: 0.371 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+right 1.8380601056046544
+---------------------------------------
+|             Epoch |              33 |
+|             EpRet |           -39.7 |
+|         EpRealRet |           -39.7 |
+|         TestEpRet |            1.84 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.46 |
+|             MaxQ1 |            10.8 |
+|             MinQ1 |           -61.3 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.83e+06 |
+|         TotalTime |        1.35e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+right 1.9316532131938402
+---------------------------------------
+|             Epoch |              34 |
+|             EpRet |           -43.5 |
+|         EpRealRet |           -43.5 |
+|         TestEpRet |            1.93 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.41 |
+|             MaxQ1 |            12.8 |
+|             MinQ1 |           -68.4 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        7.03e+06 |
+|         TotalTime |        1.39e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+right 1.9148540647960317
+something error happend
+epoch: 35 	ep: 9 	ep_rew: -32.779782681317855 	time: 0.326 	done: 1
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+right 1.8821610237136888
+---------------------------------------
+|             Epoch |              35 |
+|             EpRet |           -35.9 |
+|         EpRealRet |           -35.9 |
+|         TestEpRet |            1.88 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.47 |
+|             MaxQ1 |            18.6 |
+|             MinQ1 |           -63.2 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        7.23e+06 |
+|         TotalTime |        1.43e+03 |
+---------------------------------------
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.9968154040712651
+something error happend
+epoch: 36 	ep: 31 	ep_rew: -34.331024379740995 	time: 0.392 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+right 2.157696293806122
+---------------------------------------
+|             Epoch |              36 |
+|             EpRet |           -41.2 |
+|         EpRealRet |           -41.2 |
+|         TestEpRet |            2.16 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.52 |
+|             MaxQ1 |            16.7 |
+|             MinQ1 |           -63.5 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        7.43e+06 |
+|         TotalTime |        1.48e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 7.4399238763997895
+right -2.0985948863148973
+epoch: 37 	ep: 10 	ep_rew: 5.341328990084892 	time: 0.309 	done: 2
+something error happend
+bad
+something error happend
+something error happend
+bad
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.6025717252293958
+something error happend
+epoch: 37 	ep: 32 	ep_rew: -28.275475720510155 	time: 0.318 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+right 2.4619549741673916
+---------------------------------------
+|             Epoch |              37 |
+|             EpRet |           -47.2 |
+|         EpRealRet |           -47.2 |
+|         TestEpRet |            2.46 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |             5.6 |
+|             MaxQ1 |            16.4 |
+|             MinQ1 |           -64.5 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        7.63e+06 |
+|         TotalTime |        1.52e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+right 2.700461498503807
+---------------------------------------
+|             Epoch |              38 |
+|             EpRet |           -46.4 |
+|         EpRealRet |           -46.4 |
+|         TestEpRet |             2.7 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.55 |
+|             MaxQ1 |            16.2 |
+|             MinQ1 |             -63 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        7.83e+06 |
+|         TotalTime |        1.56e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+right 2.780586304194271
+---------------------------------------
+|             Epoch |              39 |
+|             EpRet |           -46.8 |
+|         EpRealRet |           -46.8 |
+|         TestEpRet |            2.78 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |             5.6 |
+|             MaxQ1 |            14.7 |
+|             MinQ1 |             -62 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        8.04e+06 |
+|         TotalTime |         1.6e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 4.780766884454447
+epoch: 40 	ep: 34 	ep_rew: -38.20674888788935 	time: 0.471 	done: 1
+right 2.8984749859186163
+something error happend
+epoch: 40 	ep: 35 	ep_rew: -15.391520283326626 	time: 0.351 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+right 2.664951503949484
+---------------------------------------
+|             Epoch |              40 |
+|             EpRet |           -42.2 |
+|         EpRealRet |           -42.2 |
+|         TestEpRet |            2.66 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |             5.6 |
+|             MaxQ1 |            15.9 |
+|             MinQ1 |             -61 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        8.24e+06 |
+|         TotalTime |        1.64e+03 |
+---------------------------------------
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 4.340911218691242
+epoch: 41 	ep: 15 	ep_rew: -27.030920282918938 	time: 0.32 	done: 1
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+right 3.9995087065700474
+something error happend
+epoch: 41 	ep: 46 	ep_rew: -47.7511274308213 	time: 0.397 	done: 1
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+right 2.6211634472540766
+---------------------------------------
+|             Epoch |              41 |
+|             EpRet |           -42.9 |
+|         EpRealRet |           -42.9 |
+|         TestEpRet |            2.62 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.72 |
+|             MaxQ1 |              15 |
+|             MinQ1 |           -64.2 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        8.44e+06 |
+|         TotalTime |        1.68e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 2.3400392970576185
+something error happend
+epoch: 42 	ep: 32 	ep_rew: -14.478818868549514 	time: 0.32 	done: 1
+bad
+right 2.889568588189851
+something error happend
+epoch: 42 	ep: 34 	ep_rew: -22.339792694018755 	time: 0.374 	done: 1
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right 3.6805271497953873
+something error happend
+epoch: 42 	ep: 47 	ep_rew: -48.81350062864969 	time: 0.394 	done: 1
+something error happend
+something error happend
+something error happend
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+right 2.5782610111289106
+---------------------------------------
+|             Epoch |              42 |
+|             EpRet |             -50 |
+|         EpRealRet |             -50 |
+|         TestEpRet |            2.58 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            5.74 |
+|             MaxQ1 |              16 |
+|             MinQ1 |           -66.7 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        8.64e+06 |
+|         TotalTime |        1.72e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right 2.0894352471186908
+epoch: 43 	ep: 15 	ep_rew: -43.53050979208898 	time: 0.363 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 1.1556263637050321
+something error happend
+epoch: 43 	ep: 49 	ep_rew: -61.826489092316585 	time: 0.42 	done: 1
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+right 2.80984373667735
+---------------------------------------
+|             Epoch |              43 |
+|             EpRet |           -46.7 |
+|         EpRealRet |           -46.7 |
+|         TestEpRet |            2.81 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |             5.9 |
+|             MaxQ1 |              14 |
+|             MinQ1 |             -65 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        8.84e+06 |
+|         TotalTime |        1.76e+03 |
+---------------------------------------
+right 5.748677683400995
+something error happend
+epoch: 44 	ep: 0 	ep_rew: -27.183954300211898 	time: 0.387 	done: 1
+something error happend
+right 5.029975933704152
+epoch: 44 	ep: 4 	ep_rew: 0.48712077969143674 	time: 0.359 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+right 7.084197882816758
+something error happend
+epoch: 44 	ep: 20 	ep_rew: -19.95777798699588 	time: 0.444 	done: 1
+something error happend
+bad
+something error happend
+right 0.7418751419149654
+epoch: 44 	ep: 23 	ep_rew: -25.031730910802516 	time: 0.338 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right 4.331257871760512
+something error happend
+bad
+epoch: 44 	ep: 43 	ep_rew: -27.532009090936732 	time: 0.413 	done: 1
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+right 2.7535727926660156
+---------------------------------------
+|             Epoch |              44 |
+|             EpRet |           -44.1 |
+|         EpRealRet |           -44.1 |
+|         TestEpRet |            2.75 |
+|         AverageQ1 |           -48.9 |
+|             StdQ1 |            6.09 |
+|             MaxQ1 |            14.7 |
+|             MinQ1 |           -60.8 |
+|                Q2 |           -48.9 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        9.04e+06 |
+|         TotalTime |         1.8e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+bad
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+right 2.825699837929302
+---------------------------------------
+|             Epoch |              45 |
+|             EpRet |           -42.9 |
+|         EpRealRet |           -42.9 |
+|         TestEpRet |            2.83 |
+|         AverageQ1 |             -49 |
+|             StdQ1 |            6.16 |
+|             MaxQ1 |            15.7 |
+|             MinQ1 |           -63.4 |
+|                Q2 |             -49 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        9.24e+06 |
+|         TotalTime |        1.85e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 2.2675753085137575
+something error happend
+epoch: 46 	ep: 10 	ep_rew: -43.048714476837276 	time: 0.403 	done: 1
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right 0.6756221904609898
+epoch: 46 	ep: 40 	ep_rew: -6.098375813765771 	time: 0.301 	done: 1
+right 4.056950608684956
+something error happend
+epoch: 46 	ep: 41 	ep_rew: -8.398493584552558 	time: 0.327 	done: 1
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+right 2.616793818077573
+---------------------------------------
+|             Epoch |              46 |
+|             EpRet |             -45 |
+|         EpRealRet |             -45 |
+|         TestEpRet |            2.62 |
+|         AverageQ1 |           -48.9 |
+|             StdQ1 |            6.16 |
+|             MaxQ1 |            14.8 |
+|             MinQ1 |           -75.2 |
+|                Q2 |           -48.9 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        9.44e+06 |
+|         TotalTime |        1.89e+03 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend

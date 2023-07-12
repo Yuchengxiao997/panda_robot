@@ -1,0 +1,48 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-03-22_HER_mpi1_random_TD3Torch_PandaReach-v2\\2023-03-22_19-53-35-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+well
+epoch: 0 	ep: 40 	ep_rew: -49.363735333539694 	time: 1.494 	done: 1
+well
+epoch: 0 	ep: 41 	ep_rew: -44.26048603976783 	time: 1.402 	done: 1
+well
+epoch: 0 	ep: 43 	ep_rew: -128.87114133994373 	time: 2.926 	done: 1
+well
+epoch: 0 	ep: 44 	ep_rew: 2.4527438071203136 	time: 0.739 	done: 1
+well
+epoch: 0 	ep: 45 	ep_rew: -73.32554618707096 	time: 1.86 	done: 1
+well
+epoch: 0 	ep: 46 	ep_rew: -126.79032215721926 	time: 3.284 	done: 1
+well
+epoch: 0 	ep: 48 	ep_rew: -11.798253680759668 	time: 0.883 	done: 1
+well
+epoch: 0 	ep: 49 	ep_rew: -151.75176438004218 	time: 3.253 	done: 1
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |            -290 |
+|         EpRealRet |            -290 |
+|         TestEpRet |           -40.2 |
+|         AverageQ1 |           -1.25 |
+|             StdQ1 |           0.417 |
+|             MaxQ1 |          0.0363 |
+|             MinQ1 |           -2.87 |
+|                Q2 |           -1.25 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.98e+05 |
+|         TotalTime |             262 |
+---------------------------------------
+well
+epoch: 1 	ep: 0 	ep_rew: -103.22647265041697 	time: 2.431 	done: 1
+well
+epoch: 1 	ep: 1 	ep_rew: -231.6506838088582 	time: 4.944 	done: 1
+well

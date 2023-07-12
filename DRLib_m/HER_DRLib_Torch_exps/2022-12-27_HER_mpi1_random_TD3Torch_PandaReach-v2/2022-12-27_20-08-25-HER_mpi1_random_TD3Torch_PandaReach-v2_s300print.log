@@ -1,0 +1,60 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-27_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-27_20-08-25-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+bad
+right
+epoch: 0 	ep: 26 	ep_rew: -3.2716965188353555 	time: 0.266 	done: 1
+bad
+right
+epoch: 0 	ep: 34 	ep_rew: -3.1039679193372933 	time: 0.337 	done: 1
+bad
+bad
+right
+epoch: 0 	ep: 49 	ep_rew: -2.428064056190159 	time: 0.261 	done: 1
+right
+right
+right
+right
+right
+right
+right
+right
+right
+right
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |           -39.4 |
+|         EpRealRet |           -39.4 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -46.5 |
+|             StdQ1 |            8.32 |
+|             MaxQ1 |          0.0113 |
+|             MinQ1 |           -58.2 |
+|                Q2 |           -46.5 |
+|       TestSuccess |               1 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |              29 |
+---------------------------------------
+right
+epoch: 1 	ep: 3 	ep_rew: -1.9635221783741876 	time: 0.268 	done: 1
+bad
+bad
+right
+epoch: 1 	ep: 18 	ep_rew: -3.407564545084515 	time: 0.282 	done: 1

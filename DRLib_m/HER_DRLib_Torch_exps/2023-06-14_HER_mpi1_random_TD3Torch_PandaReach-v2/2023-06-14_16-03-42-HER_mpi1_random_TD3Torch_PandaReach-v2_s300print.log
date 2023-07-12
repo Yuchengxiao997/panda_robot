@@ -1,0 +1,78 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-06-14_HER_mpi1_random_TD3Torch_PandaReach-v2\\2023-06-14_16-03-42-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+bad
+right -6.644022487768783
+right -67.96769158963016
+right 1.1317398268700902
+right -1.7580352725634345
+right -11.008869400444258
+right -5.513562734275153
+bad
+right -1.0190386142938763
+bad
+right -45.51917143164693
+right -13.237886394895856
+right -4.020972673154869
+right -19.595365738889974
+bad
+right -86.97765028842197
+bad
+bad
+bad
+right -32.20505326550953
+right 1.1025874144126284
+bad
+right -4.539514068929096
+bad
+bad
+right -10.211995741731844
+right -12.143053387980988
+bad
+right -1.9653717170747864
+bad
+right -4.743880377541709
+right -1.5242980624666487
+bad
+bad
+right 2.1014446971286462
+bad
+right -4.132137143350912
+right -7.856348213475748
+right -1.8907172542551383
+bad
+bad
+right -77.71776695446769
+right 3.2570751544411083
+right -27.564358316809056
+right -4.248786685479601
+right -14.387076423692093
+bad
+right 3.6895905497331407
+right 6.221794051137863
+right 8.290871501134
+right -3.111283214512362
+right -0.9224906849113523
+right -13.592482576025404
+right 9.42226840461438
+right -1.7512044021377413
+bad
+right -0.5998956493111685
+right -29.585991182051885
+right 0.16823272389217614
+bad
+bad
+right 7.714913850120276
+bad
+bad
+bad

@@ -1,0 +1,19 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-04-01_HER_mpi1_random_TD3Torch_PandaReach-v2\\2023-04-01_10-28-59-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+begin>>>> (0.4348290264606476, 0.18787869811058044, 0.33327752351760864)
+begin>>>> (0.5668269991874695, -0.09932897239923477, 0.5187145471572876)
+begin>>>> (0.581673264503479, -0.030458897352218628, 0.05560114607214928)
+begin>>>> (0.5624142289161682, -0.021821409463882446, 0.009085186757147312)
+begin>>>> (0.4972385764122009, 0.08155151456594467, 0.42091450095176697)
+begin>>>> (0.6329782605171204, -0.023060744628310204, 0.5050946474075317)

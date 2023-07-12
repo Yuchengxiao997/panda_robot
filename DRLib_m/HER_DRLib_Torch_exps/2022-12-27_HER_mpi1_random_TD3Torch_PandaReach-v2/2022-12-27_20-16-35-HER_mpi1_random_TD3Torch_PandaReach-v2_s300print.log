@@ -1,0 +1,80 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2022-12-27_HER_mpi1_random_TD3Torch_PandaReach-v2/2022-12-27_20-16-35-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+now we look 4.485743655619231
+bad
+now we look 10.527288463426235
+now we look 7.864615412899912
+now we look 7.961726451309094
+now we look 10.439650921378888
+now we look 5.811206087413333
+now we look 9.870364616091338
+now we look 10.432603962408011
+now we look 9.689208904405662
+now we look 4.608941243436011
+now we look 11.026204104951864
+now we look 7.652731625652906
+now we look 6.492018545949703
+now we look 8.8157827556726
+now we look 3.4580516403702504
+right
+epoch: 0 	ep: 9 	ep_rew: 13.405731405403495 	time: 2.276 	done: 1
+now we look 10.866951846402898
+now we look 5.766749605408894
+now we look 5.699860856942799
+now we look 5.337582148083586
+now we look 4.746944708976582
+now we look 5.718107804836993
+now we look 4.957727602431446
+now we look 5.854846704259832
+now we look 4.867548889400038
+now we look 5.431073247623035
+now we look 5.045858715260399
+now we look 5.880240265211411
+now we look 5.274128761874591
+now we look 8.54672528022509
+now we look 5.334791629364151
+now we look 4.63649445497602
+bad
+now we look 9.950686018848877
+now we look 5.775693575309497
+now we look 5.790980299227083
+now we look 7.363260130969875
+now we look 5.620223915331182
+now we look 5.996488708938164
+now we look 5.822034655344836
+now we look 5.505382310448224
+bad
+now we look 6.1837840412587415
+now we look 5.123394116031811
+now we look 8.086129589074215
+now we look 5.918823942558155
+now we look 8.545132846177445
+now we look 6.809514601947627
+now we look 10.132512001802112
+now we look 7.634296969420886
+now we look 6.106982329028035
+now we look 6.584647377620913
+now we look 7.557317079526329
+now we look 10.04934713468003
+now we look 7.031325761376194
+now we look 5.045179343712075
+now we look 6.442791639036342
+now we look 5.259701370990159
+now we look 7.980353475501576
+now we look 6.027769457949896
+now we look 4.758987847724262
+now we look 7.752378333479411
+now we look 4.490006213317343
+now we look 6.595238680990545
+now we look 5.415108633294777

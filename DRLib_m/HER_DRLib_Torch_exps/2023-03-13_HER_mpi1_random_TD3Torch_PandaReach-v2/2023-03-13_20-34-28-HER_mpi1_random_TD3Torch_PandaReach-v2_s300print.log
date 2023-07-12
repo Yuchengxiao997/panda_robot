@@ -1,0 +1,3672 @@
+[36;1mSaving config:
+[0m
+{
+    "args":	null,
+    "env":	null,
+    "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+    "logger":	null,
+    "logger_kwargs":	{
+        "exp_name":	"HER_mpi1_random_TD3Torch_PandaReach-v2",
+        "output_dir":	"HER_DRLib_Torch_exps/2023-03-13_HER_mpi1_random_TD3Torch_PandaReach-v2\\2023-03-13_20-34-28-HER_mpi1_random_TD3Torch_PandaReach-v2_s300"
+    },
+    "net":	null
+}
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               0 |
+|             EpRet |            -203 |
+|         EpRealRet |            -203 |
+|         TestEpRet |               0 |
+|         AverageQ1 |           -48.9 |
+|             StdQ1 |            6.74 |
+|             MaxQ1 |         0.00756 |
+|             MinQ1 |           -59.6 |
+|                Q2 |           -48.8 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        1.97e+05 |
+|         TotalTime |            69.7 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               1 |
+|             EpRet |            -137 |
+|         EpRealRet |            -137 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0398 |
+|             MaxQ1 |           -47.9 |
+|             MinQ1 |           -50.8 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.98e+05 |
+|         TotalTime |             136 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+---------------------------------------
+|             Epoch |               2 |
+|             EpRet |            -117 |
+|         EpRealRet |            -117 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0197 |
+|             MaxQ1 |           -49.2 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.99e+05 |
+|         TotalTime |             207 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+right -19.65567804159435
+something error happend
+---------------------------------------
+|             Epoch |               3 |
+|             EpRet |            -140 |
+|         EpRealRet |            -140 |
+|         TestEpRet |           -19.7 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0377 |
+|             MaxQ1 |           -48.9 |
+|             MinQ1 |           -50.6 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           8e+05 |
+|         TotalTime |             281 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+right -18.193180606464608
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               4 |
+|             EpRet |            -142 |
+|         EpRealRet |            -142 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0538 |
+|             MaxQ1 |           -49.4 |
+|             MinQ1 |           -50.7 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |           1e+06 |
+|         TotalTime |             358 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right -26.806452081051596
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+---------------------------------------
+|             Epoch |               5 |
+|             EpRet |            -154 |
+|         EpRealRet |            -154 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0566 |
+|             MaxQ1 |           -49.5 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.2e+06 |
+|         TotalTime |             433 |
+---------------------------------------
+right -31.563751352084793
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right -33.641697641023555
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               6 |
+|             EpRet |            -170 |
+|         EpRealRet |            -170 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0547 |
+|             MaxQ1 |           -49.7 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.4e+06 |
+|         TotalTime |             507 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+---------------------------------------
+|             Epoch |               7 |
+|             EpRet |            -155 |
+|         EpRealRet |            -155 |
+|         TestEpRet |            -100 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0552 |
+|             MaxQ1 |           -49.6 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.6e+06 |
+|         TotalTime |             582 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+---------------------------------------
+|             Epoch |               8 |
+|             EpRet |            -192 |
+|         EpRealRet |            -192 |
+|         TestEpRet |            -100 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0551 |
+|             MaxQ1 |           -49.7 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |         1.8e+06 |
+|         TotalTime |             661 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |               9 |
+|             EpRet |            -185 |
+|         EpRealRet |            -185 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.055 |
+|             MaxQ1 |           -49.6 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.01e+06 |
+|         TotalTime |             737 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right 4.34945812900978
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              10 |
+|             EpRet |            -162 |
+|         EpRealRet |            -162 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0723 |
+|             MaxQ1 |           -49.2 |
+|             MinQ1 |           -50.6 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.21e+06 |
+|         TotalTime |             812 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right -33.40553395846568
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              11 |
+|             EpRet |            -202 |
+|         EpRealRet |            -202 |
+|         TestEpRet |            -200 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0896 |
+|             MaxQ1 |           -48.7 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.41e+06 |
+|         TotalTime |             888 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+something error happend
+right 1.6689893827444262
+something error happend
+---------------------------------------
+|             Epoch |              12 |
+|             EpRet |            -206 |
+|         EpRealRet |            -206 |
+|         TestEpRet |            -214 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0981 |
+|             MaxQ1 |           -47.7 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.61e+06 |
+|         TotalTime |             967 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+right -10.533904435448829
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+something error happend
+right 1.491232038576488
+something error happend
+---------------------------------------
+|             Epoch |              13 |
+|             EpRet |            -227 |
+|         EpRealRet |            -227 |
+|         TestEpRet |           -98.5 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.115 |
+|             MaxQ1 |           -45.5 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        2.81e+06 |
+|         TotalTime |        1.04e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              14 |
+|             EpRet |            -232 |
+|         EpRealRet |            -232 |
+|         TestEpRet |            -118 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.144 |
+|             MaxQ1 |           -44.7 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.01e+06 |
+|         TotalTime |        1.12e+03 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              15 |
+|             EpRet |            -258 |
+|         EpRealRet |            -258 |
+|         TestEpRet |            -114 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.136 |
+|             MaxQ1 |           -44.3 |
+|             MinQ1 |           -50.7 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.21e+06 |
+|         TotalTime |        1.19e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+right -14.977402682112015
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right -27.66383914685023
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              16 |
+|             EpRet |            -211 |
+|         EpRealRet |            -211 |
+|         TestEpRet |            -111 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.105 |
+|             MaxQ1 |           -44.4 |
+|             MinQ1 |           -50.5 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.41e+06 |
+|         TotalTime |        1.27e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+---------------------------------------
+|             Epoch |              17 |
+|             EpRet |            -201 |
+|         EpRealRet |            -201 |
+|         TestEpRet |            -100 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.116 |
+|             MaxQ1 |           -44.3 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.61e+06 |
+|         TotalTime |        1.35e+03 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right -280.03029545213167
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              18 |
+|             EpRet |            -190 |
+|         EpRealRet |            -190 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.136 |
+|             MaxQ1 |           -43.8 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        3.81e+06 |
+|         TotalTime |        1.42e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+---------------------------------------
+|             Epoch |              19 |
+|             EpRet |            -168 |
+|         EpRealRet |            -168 |
+|         TestEpRet |            -100 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |            0.13 |
+|             MaxQ1 |           -43.2 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.02e+06 |
+|         TotalTime |         1.5e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+---------------------------------------
+|             Epoch |              20 |
+|             EpRet |            -190 |
+|         EpRealRet |            -190 |
+|         TestEpRet |            -100 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.126 |
+|             MaxQ1 |           -43.5 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.22e+06 |
+|         TotalTime |        1.57e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              21 |
+|             EpRet |            -141 |
+|         EpRealRet |            -141 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0954 |
+|             MaxQ1 |           -43.6 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.42e+06 |
+|         TotalTime |        1.65e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              22 |
+|             EpRet |            -148 |
+|         EpRealRet |            -148 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0672 |
+|             MaxQ1 |           -49.4 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.62e+06 |
+|         TotalTime |        1.73e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              23 |
+|             EpRet |            -137 |
+|         EpRealRet |            -137 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0712 |
+|             MaxQ1 |           -49.4 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        4.82e+06 |
+|         TotalTime |        1.81e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              24 |
+|             EpRet |            -139 |
+|         EpRealRet |            -139 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0635 |
+|             MaxQ1 |           -49.3 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.02e+06 |
+|         TotalTime |         1.9e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              25 |
+|             EpRet |            -152 |
+|         EpRealRet |            -152 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0669 |
+|             MaxQ1 |           -49.2 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.22e+06 |
+|         TotalTime |        1.97e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              26 |
+|             EpRet |            -140 |
+|         EpRealRet |            -140 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0669 |
+|             MaxQ1 |           -49.2 |
+|             MinQ1 |           -50.4 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.42e+06 |
+|         TotalTime |        2.05e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              27 |
+|             EpRet |            -134 |
+|         EpRealRet |            -134 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0678 |
+|             MaxQ1 |           -49.2 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.62e+06 |
+|         TotalTime |        2.12e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right -16.487791540721194
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              28 |
+|             EpRet |            -158 |
+|         EpRealRet |            -158 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |           0.067 |
+|             MaxQ1 |           -49.2 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        5.82e+06 |
+|         TotalTime |         2.2e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              29 |
+|             EpRet |            -130 |
+|         EpRealRet |            -130 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0657 |
+|             MaxQ1 |           -49.1 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.03e+06 |
+|         TotalTime |        2.28e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+right -11.57163001439843
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              30 |
+|             EpRet |            -123 |
+|         EpRealRet |            -123 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0637 |
+|             MaxQ1 |           -49.2 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.23e+06 |
+|         TotalTime |        2.36e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              31 |
+|             EpRet |            -149 |
+|         EpRealRet |            -149 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0676 |
+|             MaxQ1 |           -49.1 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.43e+06 |
+|         TotalTime |        2.44e+03 |
+---------------------------------------
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+bad
+something error happend
+something error happend
+bad
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              32 |
+|             EpRet |            -122 |
+|         EpRealRet |            -122 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0677 |
+|             MaxQ1 |           -49.1 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.63e+06 |
+|         TotalTime |        2.52e+03 |
+---------------------------------------
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+---------------------------------------
+|             Epoch |              33 |
+|             EpRet |            -121 |
+|         EpRealRet |            -121 |
+|         TestEpRet |               0 |
+|         AverageQ1 |             -50 |
+|             StdQ1 |          0.0639 |
+|             MaxQ1 |           -49.1 |
+|             MinQ1 |           -50.3 |
+|                Q2 |             -50 |
+|       TestSuccess |               0 |
+| TotalEnvInteracts |        6.83e+06 |
+|         TotalTime |        2.61e+03 |
+---------------------------------------
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+bad
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+right -7.691860642852895
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+something error happend
+bad
